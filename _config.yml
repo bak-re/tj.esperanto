@@ -6,8 +6,8 @@ url                          : "https://tj.esperanto.bak.re" # the base hostname
 
 blog:
   title                      : Esperanto en Taĝikio
-  description                  : > Asocio de esperantistoj de Taĝikio
-                               this should contain a proper description
+  description                  : Asocio de esperantistoj de Taĝikio
+
 
 # Layout configuration
   logo_path                  : "assets/img/dactl.svg" # path to logo file
