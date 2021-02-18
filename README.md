@@ -1,112 +1,139 @@
-## Jasper2
+# dactl
+dactl is a fast, modern and configurable [Jekyll](http://jekyllrb.com/) theme with some tricks up it's sleeve. It has a live theme switcher and it's main blog layout display prominent hero images for posts with colored overlays and nice animations.
 
-[![Build Status](https://travis-ci.org/jekyller/jasper2.svg?branch=master)](https://travis-ci.org/jekyller/jasper2)
-[![Ruby](https://img.shields.io/badge/ruby-2.5.1-blue.svg?style=flat)](http://travis-ci.org/jekyller/jasper2)
-[![Jekyll](https://img.shields.io/badge/jekyll-3.7.4-blue.svg?style=flat)](http://travis-ci.org/jekyller/jasper2)
-
-This is a full-featured port of Ghost's default theme [Casper](https://github.com/tryghost/casper)
-*v2.1.9* for [Jekyll](https://jekyllrb.com/) / [GitHub Pages](https://pages.github.com/).
-
-## Live Demo
-
-[Ghost's Casper](https://demo.ghost.io) // [Jasper2](https://jekyller.github.io/jasper2)
-
-![home page](https://raw.githubusercontent.com/jekyller/jasper2/master/assets/screenshot-desktop.jpg)
-
+![light theme](uploads/screenshot_desktop_light.jpg)
+![dark theme](uploads/screenshot_desktop_dark.jpg)
 
 ## Features
+Though minimalistic-looking by nature, dactl is easily configurable and includes quite a lot of niceties:
 
-* Out of the box support for multiple authors (via `_data/authors.yml`)
-* Full author information including: picture, bio, website, twitter, facebook, etc.
-* Tag description(s) and personalised covers (via `_data/tags.yml`)
-* Related posts view at the bottom of each post
-* All Ghost default pages: Author page(s), Tag page(s), About page(s), 404, etc.
-* Pagination (infinite scrolling or standard pagination, i.e. posts across multiple pages)
-* Atom Feeds by [Jekyll-feed](https://github.com/jekyll/jekyll-feed)
-* Toggleable subscribe button (requires an external service)
-* Code Syntax Highlight with [highlight.js](https://highlightjs.org/)
-* Support for Google Analytics tracking
-* Support for Disqus comments (not Ghost standard)
+Main features:
+* Customizable blog layout - choose how your posts will be displayed
+* Light/Dark live theme switcher
+* Inline footnotes using [Barefoot](https://github.com/philgruneich/barefoot)
+* [IcoMoon](https://icomoon.io/) custom icon set (~4kb)
+* Typography and components size set in `rem` and `em` which makes them easily scalable
+* Responsive design
 
+Jekyll-specific features:
+* Pagination (default: 5 posts per page)
+* Fully compatible with Jekyll 3.x and GitHub Pages
+* SEO optimized
+* [Google Analytics](https://www.google.com/analytics/) support
+* [Disqus](https://disqus.com/) comments support
+* Syntax highlighter using [Rouge](https://github.com/jneen/rouge) with numbered code lines
 
-## Getting Started
+Other features:
+* Archive page
+* About page
+* Tags functionality and tags pages
+* Link posts functionality
 
-### Deployment
+Some of the features listed above can be easily configured or disabled by you.
 
-**Important:**  For security reasons, Github does not allow plugins (under `_plugins/`) when
-deploying with Github Pages. This means that we have to do one of the following:
+## Information about dactl
+At it's core, dactl is a forked version of [daktilo](https://github.com/kronik3r/daktilo) but it has been almost entirely rewritten from scratch.  
+I have just started my journey in the world of web development, learning new things on the way.  
+Looking for a way to put my newly acquired skills to test I found Jekyll and I quickly realized that it's going to be a good learning experience since I don't like building 'dummy' projects.  
+I've built this theme as a way to develop my skills further.
 
-**1)** generate the site locally (more details below) and push the resulting
-HTML (the contents of `_site/` or `../jasper2-pages/`) to a Github repository, that GitHub Pages
-then host;
+You can find credits at the bottom of this Readme file.  
+**All** feedback is welcome, both positive and negative.
 
-**2)** build the site with [travis-ci](https://travis-ci.org/) (with goodies from
-[jekyll-travis](https://github.com/mfenner/jekyll-travis)) automatically pushing the
-generated HTML files to a *gh-pages* branch.
-This later approach is the one I am currently using to generate the live demo.
+## Installation
+### Running locally
+Assuming you've got Jekyll [installed](https://jekyllrb.com/docs/installation/), clone or download this repo, `cd` to wherever you've put `dactl` folder and run `jekyll -s'`
 
-**3)** deploy the static website with Jekyll-compatible hosters, such as https://www.netlify.com/, that allow for deployment from the Github repo and publish the website using CDNs. Netlify has a free starter offer.
+### Hosting on GitHub
+Fork this repo and rename it to `yourusername.github.io`... and that's it!  
+Your new dactl-themed Jekyll blog should be up and running at yourusername.github.io.  
 
-For option **1)** simply clone this repository (*master branch*), and then run
-`bundle exec jekyll serve` inside the directory. Upload the resulting `_site/` (or `../jasper2-pages/`)
-contents to your repository (*master branch* if uploading as your personal page
-(e.g. username.github.io) or *gh-pages branch* if uploading as a project page
-(as for the [demo](https://github.com/jekyller/jasper2/tree/gh-pages)).
+## Usage
+### Slight warning
+dactl relies heavily on modern CSS properties such as [mix-blend-mode](http://www.w3.org/TR/compositing-1/#mix-blend-mode), [-webkit-filter](http://www.w3.org/TR/filter-effects-1/) and [css variables](https://drafts.csswg.org/css-variables/) so it may not work properly on older browsers.  
+It was tested with and works fully on webkit-powered browsers - Safari, Chrome, Vivaldi.
 
-For option **2)** you will need to set up travis-ci for your personal fork. Briefly all you
-need then is to change your details in *[\_config.yml](_config.yml)* so that you can push
-to your github repo. You will also need to generate a secure key to add to your
-*[.travis.yml](.travis.yml)* (you can find more info on how to do it in that file).
-Also make sure you read the documentation from
-[jekyll-travis](https://github.com/mfenner/jekyll-travis). This approach has clear
-advantages in that you simply push your file changes to GitHub and all the HTML files
-are generated for you and pushed to *gh-pages*. Also you get to know if everything is
-still fine with your site builds. Don't hesitate to contact me if you still have any
-issues (see below about issue tracking).
+### Layout configurations
+By default dactl uses blog layout which you can see below or check for yourself in the live version.
 
-### Author Pages
+Main blog layout displays 5 posts. Each post has a heading contained in a medium-sized tile - with an color overlay over the background image. You need to set the image and color of the overlay in post's YAML front matter.
 
-In order to properly generate author pages you need to rename the field *author* in the
-front matter of every post to match that of your each author's *username* as defined
-in the *[\_data/authors.yml](_data/authors.yml)* file.
-With the latest update, multiple author blogs are now supported out of the box.
+If you don't want to use images for post headings you can easily configure the layout to you needs by changing settings located in `configure.yml` file, both post and blog layout will adapt accordingly.
 
-### Compiling Styles
+Options include:
+* Use or don't use post heading images (Blog & Post)
+* Show full post content or post excerpts (Blog)
+* Show post titles only (Blog)
 
-Following on the way Casper styles are compiled as [described here](https://github.com/tryghost/casper#development):
+## Additional information about some features
+### Hero images and blog layout
+Liquid 'script' which is used to append correct hero image and overlay color as set in post YAML Front matter was written by me and while it's really basic it functions properly.  
+You can read more about it and see the code in `include/utils/hero.html`.
 
-Jasper2 styles are compiled using Gulp/PostCSS to polyfill future CSS spec. You'll need Node and Gulp installed globally. After that, from the theme's root directory:
+### Theme switcher
+Theme switcher is made in vanilla Javascript and works using [CSS Variables](https://developer.mozilla.org/en-US/docs/Web/CSS/Using_CSS_variables). Values (colors) specified for each variable are injected into `:root` on every page load.  
+User theme choice is saved in browser's [Local Storage](https://www.w3schools.com/html/html5_webstorage.asp) and is persistent through sessions.
 
-```bash
-$ npm install
-$ gulp
-```
+You can edit the colors of both Light and Dark themes in `themeswitcher.js` file found in `_assets/js/`.
 
-Now you can edit `/assets/css/` files, which will be compiled to `/assets/built/` automatically.
+### Inline Barefoot footnotes
+dactl uses [Barefoot](https://github.com/philgruneich/barefoot) plugin to create nice looking inline footnotes from those generated by [kramdown](https://kramdown.gettalong.org/), daktl's markdown processor.
 
-## Issues and Contributing
+Barefoot description (from project's page):
+>[Barefoot](https://github.com/philgruneich/barefoot) is a lightweight [Bigfoot.js](https://github.com/lemonmade/bigfoot) alternative written in vanilla Javascript to create beautiful inline footnotes.  
+Barefoot grabs the common markup used for footnotes on the web, mostly generated by Markdown processors, and transform it into beautiful and meaningful footnotes.
 
-This install builds well with Ruby v2.5.1 and Jekyll v3.7.4. If you run into any problems
-please log them on the [issue tracker](https://github.com/jekyller/jasper2/issues).
+### CSS
+CSS is built by via Jekyll's SASS compiler. Source partial SASS files are located in `_sass` folder, included into `main.scss`, and compile to `main.css`.
 
-Feel free pull-request your patches and fixes.
+### Additional pages
+#### Archive page
+Archive page displays all of your posts grouped by month. Under this page's title you'll find a Searchbox which is hooked up to DuckDuckGo's `:site` search and will open the results in a new tab.  
+You need to provide your blog's web address in `search_path` field found in `_config.yml` for it to work.
+#### About page
+About page displays your photo under the title (set in `config.yml`) and the content of about.md.
+#### Tags & Tags Pages
+Tags and tag pages are supported by using Jekyll's native collections functionality.  
 
-## Thanks
+## Even more info
+### Rems, font-size and scaling
+dactl is built almost entirely with `rem`s (instead of pixels). `rem`s are like `em`s, but instead of building on the immediate parent's font-size, they build on the root element, `<html>`.
 
+By default, dactl uses the following:
+~~~
+html {
+  font-size: 20px;
+  line-height: 1.6;
+}
+@media (max-width: 48rem) {
+  html {
+    font-size: 18px;
+  }
+}
+~~~
+To easily scale your site's typography and components, simply customize the base font-sizes found in `_sass/variables.scss` file.
 
-Many thanks to the Ghost team for all the design work. Also many thanks to all contributors,
-that help keeping the project alive and updated :smile:
+(Lifted from [here](https://github.com/poole/poole#rems-font-size-and-scaling))
 
+## Credits
+### Resources used
+- [IcoMoon.io](https://icomoon.io/)
+- [Normalize.css](https://github.com/necolas/normalize.css) - Nicolas Gallagher
+- [Theme switcher](https://www.fdp.io/blog/2016/11/08/theming-via-css-properties/) - Fernando Paredes
+- [Barefoot](https://github.com/philgruneich/barefoot) - Philip Gruneich
+- [The Noun Project](https://thenounproject.com/) - Icon used as dactl's logo - [Artem Kovyazin](https://thenounproject.com/term/raisin/446158), icon used as 'avatar' in About [Drishya](https://thenounproject.com/term/profile/963272)
 
-## Copyright & License
+### Inspiration and thoughtful code-jacking
+Inspiration and bits of things listed below are present inside dactl's code:
+- [Daktilo](https://github.com/kronik3r/daktilo) - dactl is based on Daktilo and inherits it's one-column layout.
+- [Hydejack](https://github.com/qwtel/hydejack/) - I've learned a lot about Jekyll when I took apart [@qwtel](https://github.com/qwtel/)'s excellent fork of [Hyde](https://github.com/poole/hyde) theme. I embraced his more partials = everything is easier to edit policy. Hydejack theme gave me an idea on how to create hero images liquid scripting, loading google fonts and using rem's/em's and more.
+- [Minimal Mistakes](https://github.com/mmistakes/minimal-mistakes) - This guy makes awesome themes and writes a lot about Jekyll and it's more obscure use cases on his blog, [Made Mistakes](https://mademistakes.com). Looking through his theme's code - Minimal Mistakes in particular - gave me lot of information about how to build a robust theme and how to make it configurable within `_config.yml`
+- [Trophy](https://github.com/thomasvaeth/trophy-jekyll) - Link border slide animation SASS mixin which I slightly modified to be able to easily change the direction of the animation.
+- Various blog posts about Jekyll and [Stackoverflow](https://www.stackoverflow.com) posts with useful [Liquid](https://github.com/Shopify/liquid) snippets.
 
-Same licence as the one provided by Ghost's team. See Casper's theme [license](GHOST.txt).
+## License
+All parts of dactl Jekyll theme are free to use and abuse under the open-source [MIT license](http://opensource.org/licenses/mit-license.php).
 
-Copyright (C) 2015-2018 - Released under the MIT License.
-
-Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND
-NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+## TO DO
+- [ ] Inline critical `.css` in `<head>` for faster load times
+- [ ] Fix theme-switcher - sometimes it does not inject all of the colors properly on first page load and a refresh, fixes itself after switching the theme back and forth.

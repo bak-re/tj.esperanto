@@ -1,95 +1,118 @@
-# Jekyll configuration
-markdown: kramdown
-highlighter: rouge
-paginate: 100 # it will paginate after this number
-language: 'eo-eo'
-words_per_minute: 200
+# Base blog settings
+baseurl                      : "/dactl/" # the subpath of your site,                         # e.g. /blog/
+                              # set to '' in case of hosting on GitHub
+url                          : "" # the base hostname & protocol for your site
+                                  # `http://<username>.github.io` - for GitHub
 
-# edit baseurl to simply '/' if using as your personal page (instead of a project page)
-baseurl: /
+blog:
+  title                      : dactl
+  description                  : >
+                               this should contain a proper description
 
-# Website info
-title: Esperanto en Taĝikio
-description: Asocio de esperantistoj de Taĝikio
-cover: assets/images/blog-cover.jpg
-logo: assets/images/blog-icon.png
-logo_dark: assets/images/favicon.png
-favicon: assets/images/favicon.png
-CNAME: #add cname for website to be created
+# Layout configuration
+  logo_path                  : "assets/img/dactl.svg" # path to logo file
+  search_path                : # "yourgitusername.github.io"
+                               # needed for searchbox in archive page
+  hero_layout                : true # turn on hero layout for blog and posts
+  hero_placeholder           : "assets/img/generic_hero.jpg" # placeholder for hero image
+  excerpts                   : true # show excerpts instead of full post content on blog page
+  inline_footnotes           : true # enable/disable barefoot inline footnotes
+  titles_only                : false # show post titles only on main blog page
 
-# Social info
-navigation: True # show the navbar links
-subscribers: True # you need to connect an external service for this to work,
-# if 'True' the submit button is disabled for now, but you can change that
-# by editing `_includes/subscribe-form.html`
-twitter: tryghost # replace by your username
-facebook: ghost # replace by your username
+# Fonts
+  font                       : '"Rubik", -apple-system, BlinkMacSystemFont, "Helvetica Neue", sans-serif'
+  load_google_fonts          : 'Rubik:400,400italic,700,700italic'
 
-# Disqus
-disqus: False
-disqus_shortname: jekyller # replace with your disqus username
 
-# Google Analytics
-google_analytics: 
+# Author info
+author:
+  fullname                  : Your Name
+  rss                       : true # generate RSS feed and show it's icon in header
+  mail                      : your@email.com # change to your e-mail address
+  twitter                   : twitter-user-name
+  github                    : github-user-name
+  youtube                   : youtube-user-name
+  stackoverflow             : stackoverflow-user-name
+  disqus                    : dactl # your disqus site name
+  google_analytics          : # 'UA-XXXXXXXX-X'
+  photo                     : "uploads/me2.png"
+  photo2x                   : "uploads/me.png"
+
+
+
+## !!
+## Advanced blog settings
+## You should not change anything here unless you know what you are doing
+
+# Gems
+plugins:
+  - jekyll-paginate
+  - jekyll-sitemap
 
 # Permalinks
-permalink: /:title
-# permalink: /author/:author
-# permalink: /tag/:tag
+permalink                    : posts/:slug
 
-# Authors' info in `_data/authors.yml`
-# Tags' info in `_data/tags_info.yml`
+# Posts
+excerpt_separator            : <!–-break-–>
 
-# gems and other configs
-plugins_dir: [_plugins]
-plugins: [jekyll-paginate, jekyll-feed]
+# Pagination
+paginate                     : 5
+paginate_path                : '/page-:num/'
 
-feed:
-  path: feed.xml
+# Tags
+collections:
+  my_tags:
+    output: true
+    permalink: /tag/:slug/
+defaults:
+  -
+    scope:
+      path: ""
+      type: my_tags
+    values:
+      layout: blog-by-tag
 
-# Additional settings available on the front-matter
-# Site logo in the index.html (as in demo.ghost.io)
-# Author's page cover in _layouts/author.html
-# The same for page.html and tag.html layouts
-# Post's page cover as a per-post basis _posts/...
-# Disqus comments as a per-post basis
-# ...
+# Handling Reading
+exclude                    : ["README.md", "README.html"]
 
-# Settings for building master branch with travis-ci
-# with jekyll-travis
+# https://github.com/jekyll/jekyll/issues/4619
+# Markdown and highlighter settings
+markdown: kramdown
+# !github-pages! mandatory › https://help.github.com/articles/using-jekyll-with-pages/#configuration-settings-you-cannot-change
+# Since Jekyll 3 the default highlighter is Rouge (replaced Pygments.rb in v44)
+highlighter: rouge
 
-# Settings for deploy rake task
-# Username and repo of Github repo, e.g.
-# https://github.com/USERNAME/REPO.git
-# username defaults to ENV['GIT_NAME'] used by Travis
-# repo defaults to USERNAME.github.io
-# Branch defaults to "source" for USERNAME.github.io
-# or "master" otherwise
-safe: False
-lsi: False
-username: jekyller
-repo: jasper2
-branch: master
-relative_source: ../jasper2/
-destination: ../jasper2-pages/
-production_url:  https://jekyller.github.io/jasper2/
-source_url:  https://github.com/jekyller/jasper2/
+# More › http://kramdown.gettalong.org/quickref.html
+# Options › http://kramdown.gettalong.org/options.html
+kramdown:
+  input:          GFM
+  # https://github.com/jekyll/jekyll/pull/4090
+  syntax_highlighter: rouge
 
-exclude:
-  - assets/css
-  - node_modules
-  - vendor
-  - .travis.yml
-  - Gemfile
-  - Gemfile.lock
-  - GHOST.txt
-  - gulpfile.js
-  - LICENSE
-  - package.json
-  - package-lock.json
-  - Rakefile
-  - README.md
-  - script.py
-  - changelog.md
-  - "*.Rmd"
-  - .git*
+  # Rouge Highlighter in Kramdown › http://kramdown.gettalong.org/syntax_highlighter/rouge.html
+  # span, block element options fall back to global
+  syntax_highlighter_opts:
+    # Rouge Options › https://github.com/jneen/rouge#full-options
+    # css_class: 'highlight'
+    #line_numbers: true # bad idea, spans don't need linenos and would inherit this option
+    span:
+      line_numbers: false
+    block:
+      line_numbers: true
+      start_line: 1
+
+# Sass settings
+sass:
+  sass_dir                : _sass
+  style                   : compressed # http://sass-lang.com/documentation/file.SASS_REFERENCE.html#output_style
+
+# HTML Compression
+# - http://jch.penibelst.de/
+compress_html:
+  clippings               : all
+  endings                 : all
+  comments                : ["<!-- ", " -->"]
+  blanklines              : true
+  profile                 : false
+  ignore:
+  envs                    : [local]
