@@ -1,3 +1,9 @@
+---
+layout: post
+title: Post excerpts and leading paragraphs
+overlay: blue
+---
+
 ![](index.files/esperanto_01.jpg)
 
 ![](index.files/esperanto_02.jpg)

@@ -1,3 +1,9 @@
+---
+layout: post
+title: Post excerpts and leading paragraphs
+overlay: blue
+---
+
 \< ![Конгресси байналмилалии эсперантодонон дар Белосток,
 2009](94uko.jpg)
 

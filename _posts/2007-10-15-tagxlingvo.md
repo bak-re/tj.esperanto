@@ -1,3 +1,9 @@
+---
+layout: post
+title: Post excerpts and leading paragraphs
+overlay: blue
+---
+
 <span style="font-size:18.0pt;font-family:&quot;Palatino Linotype&quot;">
                  </span>
 <span lang="EN-US" style="font-size: 18.0pt; font-family: Palatino Linotype">   </span><span style="font-size:18.0pt;

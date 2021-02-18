@@ -1,3 +1,9 @@
+---
+layout: post
+title: Post excerpts and leading paragraphs
+overlay: blue
+---
+
 <span id="naciahimno"></span>
 
 # Nacia himno de Taĝikio

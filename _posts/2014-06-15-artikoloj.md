@@ -1,3 +1,10 @@
+---
+layout: post
+title: Post excerpts and leading paragraphs
+overlay: blue
+---
+
+
 ![](index.files/esperanto_01.jpg)
 
 ![](index.files/esperanto_02.jpg)
@@ -22,7 +29,7 @@
 > 
 > <div data-align="center">
 > 
-> **T A Ĝ I K I O**
+> **Artikoloj Мақолаҳо Статьи**
 > 
 > </div>
 > 
@@ -39,16 +46,6 @@
 > 
 > </div>
 > 
-> ## 
-> 
-> <div data-align="center">
-> 
-> **Nia adreso: AET, a.k. 135, 734000 Duŝanbe, Taĝikio  
-> tel: +992/37/2215161  
-> retadresoj: aet2005@yandex.ru, komintel@yandex.ru**
-> 
-> </div>
-> 
 >   
 
 </div>
@@ -56,27 +53,33 @@
 ![](index.files/spacer.gif)
 
 <div id="layer2" style="position: absolute; width: 199px; height: 25px; z-index: 2; left: 24px;
+ top: 300px">
+
+***<span lang="ru"> [Buddismo en Taĝikio](buddismo.htm)</span>***
+
+</div>
+
+<div id="layer2" style="position: absolute; width: 199px; height: 25px; z-index: 2; left: 24px;
  top: 330px">
 
-***<span lang="ru"> [Taĝikio - lando
-montara](pritagxikio/prilalando.htm)</span>***
+***<span lang="ru"> [Pri malintegriĝo de
+Sovetio](gxamsxid.htm)</span>***
 
 </div>
 
 <div id="layer2" style="position: absolute; width: 199px; height: 25px; z-index: 2; left: 24px;
- top: 420px">
+ top: 380px">
 
-***<span lang="ru"> [La taĝika lingvo](tagxlingvo.htm) </span>***
+***<span lang="ru"> [Оилаи гетинавардон](getinavardon/sans.htm)
+</span>***
 
 </div>
 
 <div id="layer2" style="position: absolute; width: 199px; height: 25px; z-index: 2; left: 24px;
- top: 500px">
+ top: 410px">
 
-***<span lang="ru"> </span>***
-
-### [al la unua paĝo  
-на первую страницу](index.htm)
+***<span lang="ru"> [Esperanto-movado dum la lastaj
+jaroj](esplastjaro.htm)</span>***
 
 </div>
 
