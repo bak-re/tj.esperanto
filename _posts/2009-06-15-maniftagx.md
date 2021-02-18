@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Post excerpts and leading paragraphs
+title: Манифести Прагагии
 overlay: blue
 ---
 

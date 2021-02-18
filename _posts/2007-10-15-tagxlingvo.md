@@ -1,14 +1,13 @@
 ---
 layout: post
-title: Post excerpts and leading paragraphs
+title: La taĝika  lingvo
 overlay: blue
 ---
 
 <span style="font-size:18.0pt;font-family:&quot;Palatino Linotype&quot;">
                  </span>
 <span lang="EN-US" style="font-size: 18.0pt; font-family: Palatino Linotype">   </span><span style="font-size:18.0pt;
-font-family:&quot;Palatino Linotype&quot;">   </span>**<span lang="EN-US" style="font-size: 18.0pt; font-family: Palatino Linotype">La
- taĝika  lingvo </span>**
+font-family:&quot;Palatino Linotype&quot;">   </span>**<span lang="EN-US" style="font-size: 18.0pt; font-family: Palatino Linotype"> </span>**
 
 #### *kompilis F. Ŝukurov*
 

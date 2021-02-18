@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Post excerpts and leading paragraphs
+title: Artikoloj Мақолаҳо Статьи
 overlay: blue
 ---
 
@@ -29,7 +29,7 @@ overlay: blue
 > 
 > <div data-align="center">
 > 
-> **Artikoloj Мақолаҳо Статьи**
+> ****
 > 
 > </div>
 > 

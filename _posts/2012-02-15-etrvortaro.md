@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Post excerpts and leading paragraphs
+title: Esperanta-Taĝika-Rusa vortaro
 overlay: blue
 ---
 
@@ -28,7 +28,7 @@ overlay: blue
 > 
 > <div data-align="center">
 > 
-> **Esperanta-Taĝika-Rusa vortaro**
+> ****
 > 
 > </div>
 > 
