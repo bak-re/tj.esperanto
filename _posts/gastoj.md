@@ -1,0 +1,72 @@
+![](index.files/esperanto_01.jpg)
+
+![](index.files/esperanto_02.jpg)
+
+![](index.files/esperanto_03.jpg)
+
+![](index.files/esperanto_04.jpg)
+
+![](index.files/esperanto_05.jpg)
+
+![](index.files/spacer.gif)
+
+![](index.files/esperanto_06.jpg)
+
+![](index.files/esperanto_07.jpg)
+
+![](index.files/spacer.gif)
+
+<div id="Layer1" style="Z-INDEX: 1; LEFT: 225px; WIDTH: 777px; POSITION: absolute; TOP: 206px; HEIGHT: 393px">
+
+> # 
+> 
+> <div data-align="center">
+> 
+> **GASTOJ**
+> 
+> </div>
+> 
+>   
+>   
+> 
+> # 
+> 
+> <div data-align="center">
+> 
+> **Asocio de esperantistoj de Taĝikio  
+> invitas vin konatiĝi pri la lando, popolo, kulturo kaj
+> esperanto-movado**
+> 
+> </div>
+> 
+>   
+
+</div>
+
+![](index.files/spacer.gif)
+
+<div id="layer2" style="position: absolute; width: 199px; height: 25px; z-index: 2; left: 24px;
+ top: 300px">
+
+***<span lang="ru"> [Gastoj el
+Germanio](gastoj/gastoj_el_germanio.htm)</span>***
+
+</div>
+
+<div id="layer2" style="position: absolute; width: 199px; height: 25px; z-index: 2; left: 24px;
+ top: 320px">
+
+***<span lang="ru"> [Gasto el
+Hungario](gastoj/gasto_el_hungario.htm)</span>***
+
+</div>
+
+<div id="layer2" style="position: absolute; width: 199px; height: 25px; z-index: 2; left: 24px;
+ top: 400px">
+
+***<span lang="ru"> </span>***
+
+### [al la unua paĝo  
+](index.htm)
+
+</div>

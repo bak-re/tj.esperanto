@@ -1,0 +1,73 @@
+![](frazaroj.files/esperanto_01.jpg)
+
+![](frazaroj.files/esperanto_02.jpg)
+
+![](frazaroj.files/esperanto_03.jpg)
+
+![](frazaroj.files/esperanto_04.jpg)
+
+![](frazaroj.files/esperanto_05.jpg)
+
+![](frazaroj.files/spacer.gif)
+
+![](frazaroj.files/esperanto_06.jpg)
+
+![](frazaroj.files/esperanto_07.jpg)
+
+![](frazaroj.files/spacer.gif)
+
+<div id="Layer1" style="Z-INDEX: 1; LEFT: 225px; WIDTH: 777px; POSITION: absolute; TOP: 206px; HEIGHT: 393px">
+
+> # 
+> 
+> <div data-align="center">
+> 
+> **Frazaroj Муҳовараҳо Разговорники**
+> 
+> </div>
+> 
+>   
+>   
+> 
+> # 
+> 
+> <div data-align="center">
+> 
+> **Asocio de esperantistoj de Taĝikio  
+> invitas vin konatiĝi pri la lando, popolo, kulturo kaj
+> esperanto-movado**
+> 
+> </div>
+> 
+>   
+
+</div>
+
+![](frazaroj.files/spacer.gif)
+
+<div id="layer2" style="Z-INDEX: 2; LEFT: 24px; WIDTH: 199px; POSITION: absolute; TOP: 280px; HEIGHT: 25px">
+
+***<span lang="ru"> [Муҳовараи тоҷикӣ-эсперантӣ  
+Frazaro taĝika-esperanta](muhovara.htm) </span>***
+
+</div>
+
+<div id="layer2" style="position: absolute; width: 199px; height: 25px; z-index: 2; left: 24px;
+ top: 430px">
+
+******
+
+#### [ба саҳифаи аввал  
+al la ĉefa paĝo  
+на главную страницу](index.htm)
+
+</div>
+
+**
+
+<div data-align="center">
+
+[![Hosted by uCoz](https://s210.ucoz.net/img/cp/5.gif
+"Hosted by uCoz")](https://www.ucoz.ru/ "Создать сайт бесплатно")  
+
+</div>

@@ -1,0 +1,158 @@
+![](index.files/esperanto_01.jpg)
+
+![](index.files/esperanto_02.jpg)
+
+![](index.files/esperanto_03.jpg)
+
+![](index.files/esperanto_04.jpg)
+
+![](index.files/esperanto_05.jpg)
+
+![](index.files/spacer.gif)
+
+![](index.files/esperanto_06.jpg)
+
+![](index.files/esperanto_07.jpg)
+
+![](index.files/spacer.gif)
+
+<div id="Layer1" style="Z-INDEX: 1; LEFT: 225px; WIDTH: 777px; POSITION: absolute; TOP: 206px; HEIGHT: 393px">
+
+> # 
+> 
+> <div data-align="center">
+> 
+> **ESPERANTO-MOVADO**
+> 
+> </div>
+> 
+>   
+>   
+> 
+> # 
+> 
+> <div data-align="center">
+> 
+> **Asocio de esperantistoj de Taĝikio  
+> invitas vin konatiĝi pri la lando, popolo, kulturo kaj
+> esperanto-movado**
+> 
+> </div>
+> 
+>   
+
+</div>
+
+![](index.files/spacer.gif)
+
+<div id="layer2" style="position: absolute; width: 199px; height: 25px; z-index: 2; left: 24px;
+ top: 280px">
+
+***<span lang="ru"> [Эсперанто чист?](ecxist.htm)</span>***
+
+</div>
+
+<div id="layer2" style="position: absolute; width: 199px; height: 25px; z-index: 2; left: 24px;
+ top: 310px">
+
+***<span lang="ru"> [История эсперанто](istesp.htm)</span>***
+
+</div>
+
+<div id="layer2" style="position: absolute; width: 199px; height: 25px; z-index: 2; left: 24px;
+ top: 340px">
+
+***<span lang="ru"> [Пражский манифест](manifrus.htm)</span>***
+
+</div>
+
+<div id="layer2" style="position: absolute; width: 199px; height: 25px; z-index: 2; left: 24px;
+ top: 370px">
+
+***<span lang="ru"> [Забони эсперанто](espzabon.htm)</span>***
+
+</div>
+
+<div id="layer2" style="position: absolute; width: 199px; height: 25px; z-index: 2; left: 24px;
+ top: 400px">
+
+***<span lang="ru"> [Esperanto-agado](e_agado/agado.htm) </span>***
+
+</div>
+
+<div id="layer2" style="position: absolute; width: 199px; height: 25px; z-index: 2; left: 24px;
+ top: 430px">
+
+***<span lang="ru"> [Asocio](asocio.htm)</span>***
+
+</div>
+
+<div id="layer2" style="position: absolute; width: 199px; height: 25px; z-index: 2; left: 130px;
+ top: 430px">
+
+***<span lang="ru"> [Kluboj](kluboj.htm)</span>***
+
+</div>
+
+<div id="layer2" style="position: absolute; width: 199px; height: 25px; z-index: 2; left: 24px;
+ top: 460px">
+
+***<span lang="ru"> [Artikoloj](artikoloj.htm)</span>***
+
+</div>
+
+<div id="layer2" style="position: absolute; width: 199px; height: 25px; z-index: 2; left: 130px;
+ top: 460px">
+
+***<span lang="ru"> [Kantoj](kantoj.htm) </span>***
+
+</div>
+
+<div id="layer2" style="position: absolute; width: 199px; height: 25px; z-index: 2; left: 24px;
+ top: 490px">
+
+***<span lang="ru"> [Novaĵoj](novajxoj.htm)</span>***
+
+</div>
+
+<div id="layer2" style="position: absolute; width: 199px; height: 25px; z-index: 2; left: 130px;
+ top: 490px">
+
+***<span lang="ru"> [Vojaĝoj](vojagxoj.htm)</span>***
+
+</div>
+
+<div id="layer2" style="position: absolute; width: 199px; height: 25px; z-index: 2; left: 24px;
+ top: 520px">
+
+***<span lang="ru"> [Gastoj](gastoj.htm)</span>***
+
+</div>
+
+<div id="layer2" style="position: absolute; width: 199px; height: 25px; z-index: 2; left: 24px;
+ top: 550px">
+
+***<span lang="ru"> [Vortaroj  
+луғатҳо  
+словари](vortaroj.htm)</span>***
+
+</div>
+
+<div id="layer2" style="position: absolute; width: 199px; height: 25px; z-index: 2; left: 130px;
+ top: 550px">
+
+***<span lang="ru"> [Frazaroj  
+муҳоварҳо  
+разговорники](frazaroj.htm)</span>***
+
+</div>
+
+<div id="layer2" style="position: absolute; width: 199px; height: 25px; z-index: 2; left: 24px;
+ top: 600px">
+
+***<span lang="ru"> </span>***
+
+### [al la unua paĝo  
+на первую страницу](index.htm)
+
+</div>

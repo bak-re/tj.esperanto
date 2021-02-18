@@ -1,0 +1,120 @@
+![Международный эсперанто-конгресс в Белостоке, 2009](94uko.jpg)
+
+<div class="Section1">
+
+### ба забони тоҷикӣ [дар ин ҷо](maniftagx.htm)
+
+# Пражский манифест
+
+### <span style="font-size:14.0pt">движения за международный язык эсперанто</span><span lang="EN-US" style="mso-ansi-language:
+EN-US"></span>
+
+<div data-align="center">
+
+<table>
+<colgroup>
+<col style="width: 50%" />
+<col style="width: 50%" />
+</colgroup>
+<tbody>
+<tr class="odd">
+<td><p> </p></td>
+<td><p><br />
+<span style="font-family:Verdana;color:black">Мы, участники всемирного движения за развитие и распространение эсперанто,<br />
+<em><span style="font-family:Verdana">обращаемся</span></em> в настоящем манифесте ко всем правительствам, международным организациям и людям доброй воли, <em><span style="font-family:Verdana">заявляем</span></em> о нашей решимости и дальше действовать в соответствии с изложенными ниже <span class="GramE">целями</span><br />
+и <em><span style="font-family:Verdana">предлагаем</span></em> каждой организации и каждому человеку присоединиться к нашей деятельности.<br />
+<br />
+</span></p>
+<p><span style="font-family:
+  Verdana;color:black">Созданный в 1887 г. как прое<span class="GramE">кт всп</span>омогательного языка для международного общения и быстро развившийся в жизнеспособный и выразительный язык, эсперанто уже более ста лет объединяет людей поверх языковых и культурных барьеров. За это время цели сторонников эсперанто не потеряли своего значения и актуальности. Ни всемирное использование нескольких национальных языков, ни технический прогресс в области коммуникации и связи, ни создание новых методов преподавания иностранных языков не смогут реализовать на практике следующие принципы, которые мы считаем основополагающими для справедливого и эффективного устройства международного языкового общения. </span></p></td>
+</tr>
+<tr class="even">
+<td><p> </p></td>
+<td><p><strong><span style="font-family:
+  Verdana;color:black">Демократичность</span></strong><span style="font-family:Verdana;
+  color:black"><br />
+Система общения, которая даёт постоянные привилегии одним, а от других требует годы усилий для приобретения меньших возможностей, недемократична в своей основе. Хотя эсперанто, как и любой язык, не является совершенным, он значительно превосходит всех своих конкурентов в сфере равноправного международного языкового общения.<br />
+</span><span style="font-family:Verdana;color:#24099A">Мы считаем, что языковое неравенство вызывает неравенство в общении на всех уровнях, включая <span class="GramE">международный</span>.</span><span style="font-size:10.0pt;
+  font-family:&quot;Courier New&quot;;color:black"></span></p>
+<p><span style="font-family:
+  Verdana;color:#24099A"><span style="mso-spacerun:yes"> </span></span><strong><em><span style="font-family:Verdana">Мы - движение за демократическое общение.</span></em></strong></p></td>
+</tr>
+<tr class="odd">
+<td><p> </p></td>
+<td><p><strong><span style="font-family:
+  Verdana;color:black">Наднациональное воспитание</span></strong><span class="GramE"><span style="font-family:Verdana;color:black"><br />
+К</span></span><span style="font-family:Verdana;color:black">аждый национальный язык привязан к определённой культуре и народу (народам). Например, школьник, изучающий английский язык, получает знания о культуре, географии, политике англоязычных стран, особенно США и Великобритании. Школьник, изучающий эсперанто, получает знания о мире без границ, в котором каждая страна представляется родным домом.<br />
+</span><span style="font-family:Verdana;color:#24099A">Мы считаем, что воспитание посредством любого национального языка связано с определённым мировоззрением</span><strong><em><span style="font-family:Verdana">.</span></em><em><span lang="EN-US" style="font-family:Verdana;mso-ansi-language:EN-US"></span></em></strong></p>
+<p><strong><em><span lang="EN-US" style="font-family:Verdana"><span style="mso-spacerun:yes"> </span></span></em><em><span style="font-family:Verdana">Мы - движение за наднациональное воспитание.</span></em></strong></p></td>
+</tr>
+<tr class="even">
+<td><p> </p></td>
+<td><p><strong><span style="font-family:
+  Verdana;color:black">Педагогическая эффективность</span></strong><span class="GramE"><span style="font-family:Verdana;color:black"><br />
+Л</span></span><span style="font-family:Verdana;color:black">ишь небольшой процент изучающих иностранный язык овладевает им. Полное овладение эсперанто возможно даже при самостоятельном изучении. Различные исследования показали пропедевтическую значимость эсперанто для изучения других языков<span class="GramE">.</span> <span class="GramE">э</span>сперанто рекомендуется также в качестве основы для развития языкового сознания учащихся.<br />
+</span><span style="font-family:Verdana;color:#24099A">Мы считаем, что сложность национальных языков всегда будет препятствием для многих учащихся, которые получили бы несомненную пользу от усвоения второго языка.</span><span lang="EN-US" style="font-family:Verdana;color:#24099A;mso-ansi-language:EN-US"></span></p>
+<p><span lang="EN-US" style="font-family:Verdana;color:#24099A"><span style="mso-spacerun:yes"> </span></span><strong><em><span style="font-family:Verdana">Мы - движение за эффективное преподавание языков.</span></em></strong></p></td>
+</tr>
+<tr class="odd">
+<td><p> </p></td>
+<td><p><span class="SpellE"><strong><span style="font-family:Verdana;color:black">Многоязычие</span></strong></span><span style="font-family:Verdana;color:black"><br />
+Сообщество эсперантистов является одним из немногих всемирных языковых сообществ, <span class="GramE">все</span> члены <span class="GramE">которого</span> без исключения двуязычны или многоязычны. Каждый член этого сообщества принял решение изучить хотя бы один язык, <span class="GramE">кроме</span> родного, на разговорном уровне. Во многих случаях это ведёт к изучению многих языков и привязанности к ним, и, как правило, к расширению кругозора.<br />
+</span><span style="font-family:Verdana;color:#24099A">Мы считаем, что все люди, говорящие на разных языках, больших и малых, должны <span class="SpellE">располагаь</span> реальной возможностью <span class="SpellE">обладеть</span> вторым языком на высоком уровне общения.</span><span lang="EN-US" style="font-family:Verdana;
+  color:#24099A;mso-ansi-language:EN-US"></span></p>
+<p><strong><em><span lang="EN-US" style="font-family:Verdana"><span style="mso-spacerun:yes"> </span></span></em><em><span style="font-family:Verdana">Мы - движение за предоставление этой возможности.</span></em></strong></p></td>
+</tr>
+<tr class="even">
+<td><p> </p></td>
+<td><p><strong><span style="font-family:
+  Verdana;color:black">Языковые права</span></strong><span style="font-family:Verdana;
+  color:black"><br />
+Неравноправное распределение власти между языками - источник постоянного языкового давления и прямого языкового гнёта для большинства населения планеты. В среде эсперантистов, благодаря взаимному стремлению к компромиссу, люди, говорящие на больших и малых, официальных и неофициальных языках, встречаются на нейтральной почве. Такое равновесие между языковыми правами и ответственностью создало прецедент для развития и <span class="GramE">изучения</span> альтернативных <span class="SpellE">слособов</span> преодоления языкового неравенства и решения языковых конфликтов.<br />
+</span><span style="font-family:Verdana;color:#24099A">Мы считаем, что <span class="GramE">существующая</span> <span class="SpellE">диспопорция</span> в сфере применения языков подрывает гарантии равноправия вне зависимости от языка, провозглашённые во многих международных соглашениях.</span><span style="font-family:Verdana;color:black"></span></p>
+<p><span style="font-family:
+  Verdana;color:#24099A"><span style="mso-spacerun:yes"> </span></span><strong><em><span style="font-family:Verdana">Мы - движение за языковые права.</span></em></strong></p></td>
+</tr>
+<tr class="odd">
+<td><p> </p></td>
+<td><p><strong><span style="font-family:
+  Verdana;color:black">Разноязычие</span></strong><span style="font-family:Verdana;
+  color:black"><br />
+Правительства разных стран склонны рассматривать разнообразие языков в мире как препятствие общению и развитию. Однако для сообщества эсперантистов разноязычие представляется постоянным и неотъемлемым источником богатства. В соответствии с этим, каждый язык, равно как и каждый вид в живой природе, <span class="SpellE">цен<span class="GramE">e</span>н</span> сам по себе и требует защиты и поддержки.<br />
+</span><span style="font-family:Verdana;color:#24099A">Мы считаем, что политика коммуникации и развития, если она не основана на уважении и поддержке всех языков, обрекает большинство языков мира на исчезновение. </span><span lang="EN-US" style="font-family:Verdana;color:#24099A;mso-ansi-language:EN-US"></span></p>
+<p><strong><em><span style="font-family:Verdana">Мы - движение за разноязычие.</span></em></strong></p></td>
+</tr>
+<tr class="even">
+<td><p> </p></td>
+<td><p><strong><span style="font-family:Verdana;color:black">Освобождение человека</span></strong><span class="GramE"><span style="font-family:Verdana;
+  color:black"><br />
+К</span></span><span style="font-family:Verdana;color:black">аждый язык освобождает и закрепощает своих носителей, предоставляя им возможность общаться между собой и препятствуя общению с иноязычными. Задуманный как средство международного общения, язык эсперанто является одним из крупных реально действующих проектов освобождения человека: это проект, позволяющий каждому принять личное участие в человеческом сообществе, сохраняя прочные связи со своими культурными и языковыми корнями, <span class="GramE">но</span> не ограничиваясь ими.<br />
+</span><span style="font-family:Verdana;color:#24099A">Мы считаем, что исключительное использование национальных языков неизбежно приводит к возникновению барьеров на пути к обретению свободы самовыражения, общения и сотрудничества. </span><span lang="EN-US" style="font-family:Verdana;
+  color:#24099A;mso-ansi-language:EN-US"></span></p>
+<p><span lang="EN-US" style="font-family:Verdana;color:#24099A;
+  mso-ansi-language:EN-US"></span></p>
+<p> </p>
+<p><strong><em><span style="font-family:Verdana">Мы - движение за освобождение человека. </span></em></strong></p>
+<p><span style="font-size:13.5pt;font-family:Verdana;color:#24099A">Прага, июль 1996 г.</span><span style="font-family:Verdana;color:#AA1D7B"> </span></p></td>
+</tr>
+</tbody>
+</table>
+
+</div>
+
+ 
+
+</div>
+
+**
+
+### [ба саҳифаи аввал  
+al la ĉefa paĝo  
+на главную страницу](espermov.htm)
+
+**
+
+<div data-align="center">
+
+[![Hosted by uCoz](https://s210.ucoz.net/img/cp/5.gif
+"Hosted by uCoz")](https://www.ucoz.ru/ "Создать сайт бесплатно")  
+
+</div>

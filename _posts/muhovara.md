@@ -1,0 +1,105 @@
+![](index.files/esperanto_01.jpg)
+
+![](index.files/esperanto_02.jpg)
+
+![](index.files/esperanto_03.jpg)
+
+![](index.files/esperanto_04.jpg)
+
+![](index.files/esperanto_05.jpg)
+
+![](index.files/spacer.gif)
+
+![](index.files/esperanto_06.jpg)
+
+![](index.files/esperanto_07.jpg)
+
+![](index.files/spacer.gif)
+
+<div id="Layer1" style="Z-INDEX: 1; LEFT: 225px; WIDTH: 777px; POSITION: absolute; TOP: 206px; HEIGHT: 393px">
+
+> ## 
+> 
+> <div data-align="center">
+> 
+> **Муҳовараи тоҷикӣ-эсперантӣ**
+> 
+> </div>
+> 
+> ### 
+> 
+> <div data-align="center">
+> 
+> ***тартибдиханда Ф.Шукуров***
+> 
+> </div>
+> 
+> # 
+> 
+> <div data-align="center">
+> 
+> **Asocio de esperantistoj de Taĝikio  
+> invitas vin konatiĝi pri la lando, popolo, kulturo kaj
+> esperanto-movado**
+> 
+> </div>
+> 
+>   
+
+</div>
+
+![](index.files/spacer.gif)
+
+<div id="layer2" style="position: absolute; width: 199px; height: 25px; z-index: 2; left: 30px;
+ top: 300px">
+
+***<span lang="ru"> [Саломот.](muhovara/salomot.htm)</span>***
+
+</div>
+
+<div id="layer2" style="position: absolute; width: 199px; height: 25px; z-index: 2; left: 30px;
+ top: 320px">
+
+***<span lang="ru"> [Дар куҷо? Кай? Чи
+қадар?](muhovara/darkugxo.htm)</span>***
+
+</div>
+
+<div id="layer2" style="position: absolute; width: 199px; height: 25px; z-index: 2; left: 30px;
+ top: 340px">
+
+***<span lang="ru"> [Барои чи? Шумора,
+соат.](muhovara/baroicxi.htm)</span>***
+
+</div>
+
+<div id="layer2" style="position: absolute; width: 199px; height: 25px; z-index: 2; left: 30px;
+ top: 360px">
+
+***<span lang="ru"> [Рӯз, моҳ, обуҳаво.](muhovara/ruzmoh.htm)</span>***
+
+</div>
+
+<div id="layer2" style="position: absolute; width: 199px; height: 25px; z-index: 2; left: 30px;
+ top: 380px">
+
+***<span lang="ru"> [Ифодаҳои кӯтоҳ.](muhovara/ifodaho.htm) </span>***
+
+</div>
+
+<div id="layer2" style="position: absolute; width: 199px; height: 25px; z-index: 2; left: 30px;
+ top: 400px">
+
+***<span lang="ru"> [Хӯрокҳо ва
+нушокиҳо.](muhovara/hurokho.htm)</span>***
+
+</div>
+
+**
+
+<div data-align="center">
+
+[![Hosted by uCoz](https://s210.ucoz.net/img/cp/5.gif
+"Hosted by uCoz")](https://www.ucoz.ru/ "Создать сайт бесплатно")  
+
+</div>

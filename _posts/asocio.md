@@ -1,0 +1,27 @@
+Asocio de esperantistoj de Taĝikio
+
+![Emblemo de la Asocio](emblemo.jpg)
+
+Asocio de esperantistoj de Taĝikio estis fondita la 26-an de majo 2005
+surbaze la Societo de esperantistoj, kelkaj Kluboj kaj apartaj
+esperantistoj. Ĉefa tasko de la Asocio estas propagandi Esperanton kaj
+instrui ĝin por ĉiuj dezirantoj.  
+La 10-an de aŭgusto 2007, dum sia kunsido en la 92-a UKo en Jokogamo
+(Japanio) la estraro de UEA decidis anigi AET en UEA. Ni kore dankas\!  
+[anoj de la Asocio](aet/aetanoj.htm)  
+
+![](asocio1.jpg)
+
+![](asocio2.jpg)
+
+### [al la ĉefa paĝo  
+на главную страницу](espermov.htm)
+
+**
+
+<div data-align="center">
+
+[![Hosted by uCoz](https://s210.ucoz.net/img/cp/5.gif
+"Hosted by uCoz")](https://www.ucoz.ru/ "Создать сайт бесплатно")  
+
+</div>

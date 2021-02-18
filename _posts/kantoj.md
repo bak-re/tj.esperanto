@@ -1,0 +1,37 @@
+Kantoj verkitaj kaj tradukitaj  
+de Firdaŭs Ŝukurov
+
+## [Nacia himno de Taĝikio](miajkantoj.htm#naciahimno)  
+[Respubliko mia](miajkantoj.htm#respublikomia)  
+[Dorlotas mi](miajkantoj.htm#dorlotas)  
+[Hej, kamelist'](miajkantoj.htm#kamelist)  
+[Amikeca kanto](miajkantoj.htm#pamirmontar)  
+[Amo - nia bel'](miajkantoj.htm#amoniabel)  
+[Viaj lipoj - floroj](miajkantoj.htm#viajlipoj)  
+[Taĝikaj belulinoj](miajkantoj.htm#tagxbelulinoj)  
+[Fideleco](miajkantoj.htm#fideleco)  
+[Alvenu, vi, flor'](miajkantoj.htm#alvenu)  
+[Soleco](miajkantoj.htm#soleco)  
+[Panjo](miajkantoj.htm#panjo)  
+[Ŝpinistino](miajkantoj.htm#spinistin)  
+[Kun vi paroli volas mi](miajkantoj.htm#kunviparoli)  
+[Mi amas](miajkantoj.htm#miamas)  
+[Ĉu mi kulpas?](miajkantoj.htm#cxumikulpas)  
+[En boato orumita](miajkantoj.htm#enboato)  
+[Sorĉa trajno](miajkantoj.htm#sorcxatrajno)  
+[La majstro mia](miajkantoj.htm#majstromia)  
+[Loĝas mi...](miajkantoj.htm#logxasmi)  
+[Printempo sur la strato Zareĉnaja](miajkantoj.htm#vesnanazarecxnoj)  
+[Namanganaj pomoj](miajkantoj.htm#namangan)  
+
+### [al la ĉefa paĝo  
+](espermov.htm)
+
+**
+
+<div data-align="center">
+
+[![Hosted by uCoz](https://s210.ucoz.net/img/cp/5.gif
+"Hosted by uCoz")](https://www.ucoz.ru/ "Создать сайт бесплатно")  
+
+</div>
