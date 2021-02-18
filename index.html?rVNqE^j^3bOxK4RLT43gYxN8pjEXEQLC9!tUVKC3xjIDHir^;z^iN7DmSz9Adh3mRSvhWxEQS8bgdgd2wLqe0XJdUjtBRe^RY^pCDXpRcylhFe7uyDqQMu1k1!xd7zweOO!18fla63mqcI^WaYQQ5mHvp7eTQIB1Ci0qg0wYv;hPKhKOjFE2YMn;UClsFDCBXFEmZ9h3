@@ -1,0 +1,31 @@
+
+		var ucoz_rndid = '';
+		function uOnDomOrLater(f){
+			if(document.readyState == 'loading') {
+				if(document.addEventListener) {
+					document.addEventListener('DOMContentLoaded',f);
+				} else {
+					window.attachEvent('onload',f);
+				}
+			} else {
+				setTimeout(f,0);
+			}
+		}
+	
+				window.ucoz_rndid = 'ckmIpGIM';
+				window.ustub_url = '/?4zkduBXxMcdF1IzmbXwiLEIrcy5GRJ%21ed%5EHceUdLvCgO2yJEpH%5EUMXyNFCL2%3BVi8a901IHM%5E%214f8P%3BmMIBylDEaVcY985fYt9Yio';
+				function uShowAdBanner() {
+					var iframe = document.createElement('iframe');
+					iframe.style.cssText = 'position:fixed;right:0px;top:0px;z-index:2147483640;width:100%;height:44px;';
+					iframe.id = 'iF'+ucoz_rndid ;
+					iframe.setAttribute('frameborder', '0');
+					iframe.setAttribute('scrolling', 'no');
+					iframe.setAttribute('src', ustub_url);
+					document.getElementsByTagName('body')[0].appendChild(iframe) ;
+				};
+				document.write('<div id="mainadsdv" style="width: 0;height: 0;position: fixed;right: 0px;top: 0px;z-index: 2147483647;margin: 0px;padding: 0px;background: none;"></div>');
+			
+				uOnDomOrLater(function(){
+					window.uShowAdBanner && window.uShowAdBanner();
+				});
+			

@@ -1,0 +1,31 @@
+
+		var ucoz_rndid = '';
+		function uOnDomOrLater(f){
+			if(document.readyState == 'loading') {
+				if(document.addEventListener) {
+					document.addEventListener('DOMContentLoaded',f);
+				} else {
+					window.attachEvent('onload',f);
+				}
+			} else {
+				setTimeout(f,0);
+			}
+		}
+	
+				window.ucoz_rndid = 'cV8RKR';
+				window.ustub_url = '/?9fekjsYkzyLiQ3ErlOQ%21vY8x229p4HqfIhJM%3BBbzsn%3B8127Kp%217gl%3B7Yy4%3B7qhny6GPL%3BiKjWbPDerUrz3B0AOI%5EJx6zWJrNrJTprUoo';
+				function uShowAdBanner() {
+					var iframe = document.createElement('iframe');
+					iframe.style.cssText = 'position:fixed;right:0px;top:0px;z-index:2147483640;width:100%;height:44px;';
+					iframe.id = 'iF'+ucoz_rndid ;
+					iframe.setAttribute('frameborder', '0');
+					iframe.setAttribute('scrolling', 'no');
+					iframe.setAttribute('src', ustub_url);
+					document.getElementsByTagName('body')[0].appendChild(iframe) ;
+				};
+				document.write('<div id="mainadsdv" style="width: 0;height: 0;position: fixed;right: 0px;top: 0px;z-index: 2147483647;margin: 0px;padding: 0px;background: none;"></div>');
+			
+				uOnDomOrLater(function(){
+					window.uShowAdBanner && window.uShowAdBanner();
+				});
+			
