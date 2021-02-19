@@ -44,196 +44,196 @@ hero: /assets/img/
 <div id="layer2" style="position: absolute; width: 199px; height: 25px; z-index: 2; left: 30px;
  top: 300px">
 
-***<span lang="ru"> [A](vortaro/vortaro-a.htm)</span>***
+***<span lang="ru"> [A](vortaro/vortaro-a.htm)***
 
 </div>
 
 <div id="layer2" style="position: absolute; width: 199px; height: 25px; z-index: 2; left: 60px;
  top: 300px">
 
-***<span lang="ru"> [B](vortaro/vortaro-b.htm)</span>***
+***<span lang="ru"> [B](vortaro/vortaro-b.htm)***
 
 </div>
 
 <div id="layer2" style="position: absolute; width: 199px; height: 25px; z-index: 2; left: 90px;
  top: 300px">
 
-***<span lang="ru"> [C](vortaro/vortaro-c.htm)</span>***
+***<span lang="ru"> [C](vortaro/vortaro-c.htm)***
 
 </div>
 
 <div id="layer2" style="position: absolute; width: 199px; height: 25px; z-index: 2; left: 120px;
  top: 300px">
 
-***<span lang="ru"> [Ĉ](vortaro/vortaro-cx.htm)</span>***
+***<span lang="ru"> [Ĉ](vortaro/vortaro-cx.htm)***
 
 </div>
 
 <div id="layer2" style="position: absolute; width: 199px; height: 25px; z-index: 2; left: 150px;
  top: 300px">
 
-***<span lang="ru"> [D](vortaro/vortaro-d.htm)</span>***
+***<span lang="ru"> [D](vortaro/vortaro-d.htm)***
 
 </div>
 
 <div id="layer2" style="position: absolute; width: 199px; height: 25px; z-index: 2; left: 180px;
  top: 300px">
 
-***<span lang="ru"> [E](vortaro/vortaro-e.htm)</span>***
+***<span lang="ru"> [E](vortaro/vortaro-e.htm)***
 
 </div>
 
 <div id="layer2" style="position: absolute; width: 199px; height: 25px; z-index: 2; left: 30px;
  top: 330px">
 
-***<span lang="ru"> [F](vortaro/vortaro-f.htm)</span>***
+***<span lang="ru"> [F](vortaro/vortaro-f.htm)***
 
 </div>
 
 <div id="layer2" style="position: absolute; width: 199px; height: 25px; z-index: 2; left: 60px;
  top: 330px">
 
-***<span lang="ru"> [G](vortaro/vortaro-g.htm)</span>***
+***<span lang="ru"> [G](vortaro/vortaro-g.htm)***
 
 </div>
 
 <div id="layer2" style="position: absolute; width: 199px; height: 25px; z-index: 2; left: 90px;
  top: 330px">
 
-***<span lang="ru"> [Ĝ](vortaro/vortaro-gx.htm)</span>***
+***<span lang="ru"> [Ĝ](vortaro/vortaro-gx.htm)***
 
 </div>
 
 <div id="layer2" style="position: absolute; width: 199px; height: 25px; z-index: 2; left: 120px;
  top: 330px">
 
-***<span lang="ru"> [H](vortaro/vortaro-h.htm)</span>***
+***<span lang="ru"> [H](vortaro/vortaro-h.htm)***
 
 </div>
 
 <div id="layer2" style="position: absolute; width: 199px; height: 25px; z-index: 2; left: 150px;
  top: 330px">
 
-***<span lang="ru"> [Ĥ](vortaro/vortaro-hx.htm)</span>***
+***<span lang="ru"> [Ĥ](vortaro/vortaro-hx.htm)***
 
 </div>
 
 <div id="layer2" style="position: absolute; width: 199px; height: 25px; z-index: 2; left: 180px;
  top: 330px">
 
-***<span lang="ru"> [I](vortaro/vortaro-i.htm)</span>***
+***<span lang="ru"> [I](vortaro/vortaro-i.htm)***
 
 </div>
 
 <div id="layer2" style="position: absolute; width: 199px; height: 25px; z-index: 2; left: 30px;
  top: 360px">
 
-***<span lang="ru"> [J](vortaro/vortaro-j.htm)</span>***
+***<span lang="ru"> [J](vortaro/vortaro-j.htm)***
 
 </div>
 
 <div id="layer2" style="position: absolute; width: 199px; height: 25px; z-index: 2; left: 60px;
  top: 360px">
 
-***<span lang="ru"> [Ĵ](vortaro/vortaro-jx.htm)</span>***
+***<span lang="ru"> [Ĵ](vortaro/vortaro-jx.htm)***
 
 </div>
 
 <div id="layer2" style="position: absolute; width: 199px; height: 25px; z-index: 2; left: 90px;
  top: 360px">
 
-***<span lang="ru"> [K](vortaro/vortaro-k.htm)</span>***
+***<span lang="ru"> [K](vortaro/vortaro-k.htm)***
 
 </div>
 
 <div id="layer2" style="position: absolute; width: 199px; height: 25px; z-index: 2; left: 120px;
  top: 360px">
 
-***<span lang="ru"> [L](vortaro/vortaro-l.htm)</span>***
+***<span lang="ru"> [L](vortaro/vortaro-l.htm)***
 
 </div>
 
 <div id="layer2" style="position: absolute; width: 199px; height: 25px; z-index: 2; left: 150px;
  top: 360px">
 
-***<span lang="ru"> [M](vortaro/vortaro-m.htm)</span>***
+***<span lang="ru"> [M](vortaro/vortaro-m.htm)***
 
 </div>
 
 <div id="layer2" style="position: absolute; width: 199px; height: 25px; z-index: 2; left: 180px;
  top: 360px">
 
-***<span lang="ru"> [N](vortaro/vortaro-n.htm)</span>***
+***<span lang="ru"> [N](vortaro/vortaro-n.htm)***
 
 </div>
 
 <div id="layer2" style="position: absolute; width: 199px; height: 25px; z-index: 2; left: 30px;
  top: 390px">
 
-***<span lang="ru"> [O](vortaro/vortaro-o.htm)</span>***
+***<span lang="ru"> [O](vortaro/vortaro-o.htm)***
 
 </div>
 
 <div id="layer2" style="position: absolute; width: 199px; height: 25px; z-index: 2; left: 60px;
  top: 390px">
 
-***<span lang="ru"> [P](vortaro/vortaro-p.htm)</span>***
+***<span lang="ru"> [P](vortaro/vortaro-p.htm)***
 
 </div>
 
 <div id="layer2" style="position: absolute; width: 199px; height: 25px; z-index: 2; left: 90px;
  top: 390px">
 
-***<span lang="ru"> [R](vortaro/vortaro-r.htm)</span>***
+***<span lang="ru"> [R](vortaro/vortaro-r.htm)***
 
 </div>
 
 <div id="layer2" style="position: absolute; width: 199px; height: 25px; z-index: 2; left: 120px;
  top: 390px">
 
-***<span lang="ru"> [S](vortaro/vortaro-s.htm)</span>***
+***<span lang="ru"> [S](vortaro/vortaro-s.htm)***
 
 </div>
 
 <div id="layer2" style="position: absolute; width: 199px; height: 25px; z-index: 2; left: 150px;
  top: 390px">
 
-***<span lang="ru"> [Ŝ](vortaro/vortaro-sx.htm)</span>***
+***<span lang="ru"> [Ŝ](vortaro/vortaro-sx.htm)***
 
 </div>
 
 <div id="layer2" style="position: absolute; width: 199px; height: 25px; z-index: 2; left: 180px;
  top: 390px">
 
-***<span lang="ru"> [T](vortaro/vortaro-t.htm)</span>***
+***<span lang="ru"> [T](vortaro/vortaro-t.htm)***
 
 </div>
 
 <div id="layer2" style="position: absolute; width: 199px; height: 25px; z-index: 2; left: 30px;
  top: 420px">
 
-***<span lang="ru"> [U](vortaro/vortaro-u.htm)</span>***
+***<span lang="ru"> [U](vortaro/vortaro-u.htm)***
 
 </div>
 
 <div id="layer2" style="position: absolute; width: 199px; height: 25px; z-index: 2; left: 80px;
  top: 420px">
 
-***<span lang="ru"> [Ŭ](vortaro/vortaro-ux.htm)</span>***
+***<span lang="ru"> [Ŭ](vortaro/vortaro-ux.htm)***
 
 </div>
 
 <div id="layer2" style="position: absolute; width: 199px; height: 25px; z-index: 2; left: 130px;
  top: 420px">
 
-***<span lang="ru"> [V](vortaro/vortaro-v.htm)</span>***
+***<span lang="ru"> [V](vortaro/vortaro-v.htm)***
 
 </div>
 
 <div id="layer2" style="position: absolute; width: 199px; height: 25px; z-index: 2; left: 180px;
  top: 420px">
 
-***<span lang="ru"> [Z](vortaro/vortaro-z.htm)</span>***
+***<span lang="ru"> [Z](vortaro/vortaro-z.htm)***
 
 </div>
 

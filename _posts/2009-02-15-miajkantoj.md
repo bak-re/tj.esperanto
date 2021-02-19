@@ -5,7 +5,7 @@ overlay: purple
 hero: /assets/img/
 ---
 
-<span id="naciahimno"></span>
+<span id="naciahimno">
 
 # Nacia himno de Taĝikio
 
@@ -83,7 +83,7 @@ Mia libera land’ Taĝiki’\!
 Тоҷикистони озоди ман\!  
   
 
-<span id="respublikomia"></span>
+<span id="respublikomia">
 
 # Respubliko mia
 
@@ -162,7 +162,7 @@ Refreno.
   
 Припев.  
 
-<span id="dorlotas"></span>
+<span id="dorlotas">
 
 # Dorlotas mi
 
@@ -197,7 +197,7 @@ Pro la am', sincera sent' feliĉe ĝojas tuta kor'. 2f
 Аз ту хуррамтар шавад пайваста қалби хуррамам. 2б  
   
 
-<span id="kamelist"></span>
+<span id="kamelist">
 
 # Hej, kamelist'
 
@@ -237,7 +237,7 @@ Pro la dolor' kaj la sufer' ploras kaj pasos for mi tuj. 2f.
 Тоқат намеорам ҷафо, кор аз фиғонам меравад. 2б  
   
 
-<span id="pamirmontar"></span>
+<span id="pamirmontar">
 
 # Amikeca kanto
 
@@ -298,7 +298,7 @@ Refreno.
 Нақарот.  
   
 
-<span id="amoniabel"></span>
+<span id="amoniabel">
 
 # Amo - nia bel'
 
@@ -348,7 +348,7 @@ Kaj kamelo rajdas nun | 2f
 Al oazo de l' fortun. |  
   
 
-<span id="viajlipoj"></span>
+<span id="viajlipoj">
 
 # Viaj lipoj - floroj
 
@@ -370,7 +370,7 @@ Oferos tuj mi min.
 Kieas via hejmo? -  
 Mi ami volas vin\!  
 
-<span id="tagxbelulinoj"></span>
+<span id="tagxbelulinoj">
 
 # Taĝikaj belulinoj
 
@@ -425,7 +425,7 @@ Als mit guten Freunden bleiben gern,
 Und die Pech kein grosseres ist,  
 Wenn von gute Freunde weit Du bist.  
 
-<span id="fideleco"></span>
+<span id="fideleco">
 
 # Вафо
 
@@ -449,7 +449,7 @@ Wenn von gute Freunde weit Du bist.
   
 Ёр, зафар кардам\! Ҷон, зафар кардам\!  
 
-<span id="alvenu"></span>
+<span id="alvenu">
 
 # Alvenu, vi, flor'
 
@@ -476,7 +476,7 @@ Ja, ser&265;as mi vin tra la tuta mondo.
 Ĉion faros mi por vi, belulino ĉarma,  
 Kaj la vin' de Khajam esperigas min.  
 
-<span id="soleco"></span>
+<span id="soleco">
 
 # Soleco
 
@@ -541,7 +541,7 @@ Ke solecas mi tiel\!
 В одиночестве своем.  
   
 
-<span id="panjo"></span>
+<span id="panjo">
 
 # Panjo
 
@@ -601,7 +601,7 @@ Por ke en etern' ili renkontu nin -
 Всех сыновей своих и дочерей.  
   
 
-<span id="spinistin"></span>
+<span id="spinistin">
 
 # Ŝpinistino
 
@@ -650,7 +650,7 @@ Juna ŝpinistin'.
 У окна сидит.  
   
 
-<span id="kunviparoli"></span>
+<span id="kunviparoli">
 
 # Kun Vi paroli volas mi
 
@@ -703,7 +703,7 @@ Dispelu dubojn, donu ĝojon\!
 И рассей сомнения и мрак. ://  
   
 
-<span id="miamas"></span>
+<span id="miamas">
 
 # Mi amas
 
@@ -765,7 +765,7 @@ Refreno.
   
 Накарот.  
 
-<span id="cxumikulpas"></span>
+<span id="cxumikulpas">
 
 # Ĉu mi kulpas?
 
@@ -818,7 +818,7 @@ Mi promesis al li kisi min? |
 Позволяла себя целовать? |  
   
 
-<span id="enboato"></span>
+<span id="enboato">
 
 # En boato orumita
 
@@ -911,7 +911,7 @@ Junulon plenanime.
 Хорошенький мальчонка.  
   
 
-<span id="sorcxatrajno"></span>
+<span id="sorcxatrajno">
 
 # Sorĉa trajno
 
@@ -952,7 +952,7 @@ Sorĉe igis min ridegi la mirakla arleken' -
 Tuj forgesis mi plenplene pri sopiro kaj ĉagren'.  
   
 
-<span id="majstromia"></span>
+<span id="majstromia">
 
 # La majstro mia
 
@@ -1001,7 +1001,7 @@ La majstro mia , mia majstr’.
 Устоди ман, устоди ман.  
   
 
-<span id="logxasmi"></span>
+<span id="logxasmi">
 
 # Loĝas mi…
 
@@ -1062,7 +1062,7 @@ Sed vi, ja, ne volas viziti min.
 Гарчи дар чашми шумо манзур нест.  
   
 
-<span id="vesnanazarecxnoj"></span>
+<span id="vesnanazarecxnoj">
 
 # Printempo sur la strato Zareĉnaja
 
@@ -1137,7 +1137,7 @@ La ĉefa strato de la viv’.
 Родная улица моя\!  
   
 
-<span id="namangan"></span>
+<span id="namangan">
 
 # Namanganaj pomoj
 
