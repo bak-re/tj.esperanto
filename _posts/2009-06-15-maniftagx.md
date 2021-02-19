@@ -2,6 +2,7 @@
 layout: post
 title: Манифести Прагагии
 overlay: yellow
+hero: /assets/img/94uko.jpg
 ---
 
 \< ![Конгресси байналмилалии эсперантодонон дар Белосток,
