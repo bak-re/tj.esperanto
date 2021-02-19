@@ -1203,9 +1203,4 @@ Vi rigardas nun al mi - helpis jam fortun'.
 
 **
 
-<div data-align="center">
 
-[![Hosted by uCoz](https://s210.ucoz.net/img/cp/5.gif
-"Hosted by uCoz")](https://www.ucoz.ru/ "Создать сайт бесплатно")  
-
-</div>
