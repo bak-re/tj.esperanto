@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Esperanta-Taĝika-Rusa vortaro
-overlay: blue
+overlay: purple
 ---
 
 ![](index.files/esperanto_01.jpg)

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Miaj Kantoj
-overlay: blue
+overlay: purple
 ---
 
 <span id="naciahimno"></span>

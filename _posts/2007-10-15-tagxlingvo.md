@@ -1,7 +1,7 @@
 ---
 layout: post
 title: La taĝika  lingvo
-overlay: blue
+overlay: orange
 ---
 
 <span style="font-size:18.0pt;font-family:&quot;Palatino Linotype&quot;">

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Artikoloj Мақолаҳо Статьи
-overlay: blue
+overlay: orange
 ---
 
 
