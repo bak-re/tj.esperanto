@@ -2,98 +2,98 @@
 layout: post
 title: Taĝikio — lando montara en meza Azio
 overlay: blue
-hero: /assets/img/protagxikio/tagxblazono.jpg
+hero: /assets/img/pritagxikio/tagxblazono.jpg
 ---
 
-![La nacia blazono de Taĝikio](/assets/img/protagxikio/tagxblazono.jpg)
+![La nacia blazono de Taĝikio](/assets/img/pritagxikio/tagxblazono.jpg)
 
 La nacia blazono de Taĝikio
 
-![La nacia flago de Taĝikio](/assets/img/protagxikio/tagxflago.gif)
+![La nacia flago de Taĝikio](/assets/img/pritagxikio/tagxflago.gif)
 
 La nacia flago de Taĝikio
 
-![La mapo de Taĝikio](/assets/img/protagxikio/kartataj.jpg)
+![La mapo de Taĝikio](/assets/img/pritagxikio/kartataj.jpg)
 
 La mapo de Taĝikio
 
-![Marija-monto ĉe Kulikalon](/assets/img/protagxikio/marija.jpg)
+![Marija-monto ĉe Kulikalon](/assets/img/pritagxikio/marija.jpg)
 
 Marija-monto ĉe Kulikalon
 
-![La lago Niĵgon](/assets/img/protagxikio/nijxgon.jpg)
+![La lago Niĵgon](/assets/img/pritagxikio/nijxgon.jpg)
 
 La lago Niĵgon
 
-![La geknaboj en monta vilaĝo](/assets/img/protagxikio/geknaboj.jpg)
+![La geknaboj en monta vilaĝo](/assets/img/pritagxikio/geknaboj.jpg)
 
 La geknaboj en monta vilaĝo
 
-![La lago Nofin](/assets/img/protagxikio/nofin1.jpg)
+![La lago Nofin](/assets/img/pritagxikio/nofin1.jpg)
 
 La lago Nofin
 
-![La montpasejo Kaznok](/assets/img/protagxikio/kaznok.jpg)
+![La montpasejo Kaznok](/assets/img/pritagxikio/kaznok.jpg)
 
 La montpasejo Kaznok
 
-![La antikva Penĝikento](/assets/img/protagxikio/pengxikento.jpg)
+![La antikva Penĝikento](/assets/img/pritagxikio/pengxikento.jpg)
 
 La antikva Penĝikento
 
-![Moskeo en Ŝaartuso](/assets/img/protagxikio/sxaartus.jpg)
+![Moskeo en Ŝaartuso](/assets/img/pritagxikio/sxaartus.jpg)
 
 Moskeo en Ŝaartuso
 
-![Ĉefa moskeo en Hodĵento](/assets/img/protagxikio/hodjxentmoskeo.jpg)
+![Ĉefa moskeo en Hodĵento](/assets/img/pritagxikio/hodjxentmoskeo.jpg)
 
 Ĉefa moskeo en Hodĵento
 
-![Ĉefa moskeo en Istaravŝano](/assets/img/protagxikio/istaravsxanmoskeo.jpg)
+![Ĉefa moskeo en Istaravŝano](/assets/img/pritagxikio/istaravsxanmoskeo.jpg)
 
 Ĉefa moskeo en Istaravŝano
 
-![Maŭzoleo de Rudaki en Panĝrudo](/assets/img/protagxikio/mavrud.jpg)
+![Maŭzoleo de Rudaki en Panĝrudo](/assets/img/pritagxikio/mavrud.jpg)
 
 Maŭzoleo de Rudaki en Panĝrudo
 
-![Panĝŝanbe-bazaro en Hodĵento](/assets/img/protagxikio/pangxsxanbe.jpg)
+![Panĝŝanbe-bazaro en Hodĵento](/assets/img/pritagxikio/pangxsxanbe.jpg)
 
 Panĝŝanbe-bazaro en Hodĵento
 
-![Survoja bazaro](/assets/img/protagxikio/bazaro.jpg)
+![Survoja bazaro](/assets/img/pritagxikio/bazaro.jpg)
 
 Survoja bazaro
 
-![La lago Alloudin](/assets/img/protagxikio/alloudin.jpg)
+![La lago Alloudin](/assets/img/pritagxikio/alloudin.jpg)
 
 La lago Alloudin
 
-![Apud montpasejo Ŝahriston](/assets/img/protagxikio/golubgor.jpg)
+![Apud montpasejo Ŝahriston](/assets/img/pritagxikio/golubgor.jpg)
 
 Apud montpasejo Ŝahriston
 
-![La lago Iskanderkul](/assets/img/protagxikio/iskand1.jpg)
+![La lago Iskanderkul](/assets/img/pritagxikio/iskand1.jpg)
 
 La lago Iskanderkul
 
-![Biciklantoj ĉe la lago Iskanderkul](/assets/img/protagxikio/veloiskand.jpg)
+![Biciklantoj ĉe la lago Iskanderkul](/assets/img/pritagxikio/veloiskand.jpg)
 
 Biciklantoj ĉe la lago Iskanderkul
 
-![Turistoj-biciklantoj sur montpasejo Ŝahriston, 3378m](/assets/img/protagxikio/mihalgruppa.jpg)
+![Turistoj-biciklantoj sur montpasejo Ŝahriston, 3378m](/assets/img/pritagxikio/mihalgruppa.jpg)
 
 Turistoj-biciklantoj sur montpasejo Ŝahriston, 3378m
 
-![La lago Nofin](/assets/img/protagxikio/nofin1.jpg)
+![La lago Nofin](/assets/img/pritagxikio/nofin1.jpg)
 
 La lago Nofin
 
-![La lago Iskanderkul](/assets/img/protagxikio/iskand2.jpg)
+![La lago Iskanderkul](/assets/img/pritagxikio/iskand2.jpg)
 
 La lago Iskanderkul
 
-![La vojo al montpasejo Ŝahriston, 3378m](/assets/img/protagxikio/sxahriston.jpg)
+![La vojo al montpasejo Ŝahriston, 3378m](/assets/img/pritagxikio/sxahriston.jpg)
 
 La vojo al montpasejo Ŝahriston, 3378m
 
