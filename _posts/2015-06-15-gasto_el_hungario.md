@@ -80,7 +80,7 @@ La 8-an de novembro mi akompanis Thomason al la flughaveno.Li ĝustatempe
 forflugis al Biŝkeko - Vieno. Post du semajnoj venis lia mesaĝo el
 Budapeŝto.  
   
-*Kara Firdaŭs,  
+*Kara Firdaŭs*,  
   
 iom prokraste mi fin-fine povas skribi. Revenis sen problemo ...kaj en
 la sekvanta tago okazis en Pariso la "eventoj". Mi pensas, ke ili
@@ -102,6 +102,6 @@ mem ne estas tiel entuziasma, kiel Vi, ĝin (la aprezon) Vi meritas.
 Por mi nun la plej valora estas Via amikeco. Dankegon por ĉio
 ankoraŭfoje.  
   
-Thomas*
+*Thomas*
 
 ### [al la ĉefa paĝo](espermov.htm)
