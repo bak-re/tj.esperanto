@@ -2,7 +2,7 @@
 layout: post
 title: Artikoloj Мақолаҳо Статьи
 overlay: orange
-hero: /assets/img/
+hero: 'https://source.unsplash.com/collection/261936/'
 ---
 
 
