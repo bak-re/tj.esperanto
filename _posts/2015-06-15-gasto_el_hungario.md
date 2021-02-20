@@ -2,7 +2,7 @@
 layout: post
 title: Gasto el Hungario
 overlay: green
-hero: /assets/img/gastoj/
+hero: /assets/img/gastoj/tagxikio/esperanto_domo.jpg
 ---
 
 ![Esperanto-domo, 2015](/assets/img/gastoj/tagxikio/esperanto_domo.jpg)
