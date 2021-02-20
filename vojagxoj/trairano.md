@@ -1,0 +1,309 @@
+---
+layout: post
+title: Esperanto-movado en Taĝikio
+overlay: purple
+hero: /assets/img/e_agado/varzobdemo.jpg
+---
+
+<div id="Layer3" style="position:absolute; 
+left:600px; top:100px; width:364px; height:223px; z-index:3">
+
+![Akbar, Ruŝno, Firdaŭs, Ŝahrom, 2011](irano/akrufish.jpg)
+
+</div>
+
+<div id="Layer3" style="position:absolute; 
+left:600px; top:400px; width:364px; height:223px; z-index:3">
+
+![Firdaŭs, Akbar, Ruŝno, 2011](irano/firakrush.jpg)
+
+</div>
+
+<div id="Layer2" style="position:absolute; 
+left:600px; top:800px; width:364px; height:254px; z-index:2">
+
+![Giti, Ruŝno, Keyhan kaj lia edzino, 2011](irano/gitirushkey.jpg)
+
+</div>
+
+<div id="Layer3" style="position:absolute; 
+left:600px; top:1100px; width:364px; height:223px; z-index:3">
+
+![Maŭzoleo de Saadi, 2011](irano/mauzoleo_de_Saadi.jpg)
+
+</div>
+
+<div id="Layer3" style="position:absolute; 
+left:600px; top:1400px; width:364px; height:223px; z-index:3">
+
+![Maŭzoleo de Hafizo, 2011](irano/mauzoleo_de_Hafizo.jpg)
+
+</div>
+
+<div id="Layer3" style="position:absolute; 
+left:600px; top:1700px; width:364px; height:223px; z-index:3">
+
+![Maŭzoleo de Imam Reza, 2011](irano/mauzoleo_de_Imam_Reza.jpg)
+
+</div>
+
+<div id="Layer3" style="position:absolute; 
+left:600px; top:2000px; width:364px; height:223px; z-index:3">
+
+![Sardori, Atena, Ruŝno, Firdaŭs apud maŭzoleo de Imam Reza en Maŝhado,
+2011](irano/sardori_atena_rusxno_firdaus_en_Mashhado.jpg)
+
+</div>
+
+<div id="Layer3" style="position:absolute; 
+left:600px; top:2300px; width:364px; height:223px; z-index:3">
+
+![Monumento de Firdaŭsi en Tus, 2011](irano/Firdavsi_en_Tus.jpg)
+
+</div>
+
+<div id="Layer3" style="position:absolute; 
+left:600px; top:2600px; width:364px; height:223px; z-index:3">
+
+![Fragmento de kupolo, 2011](irano/fragmento_de_kupolo.jpg)
+
+</div>
+
+<div id="Layer3" style="position:absolute; 
+left:600px; top:2900px; width:364px; height:223px; z-index:3">
+
+![Esperantistino Giti Ferdosnia kaj Ŝaho de Irano,
+2011](irano/Giti_kaj_Shaho.jpg)
+
+</div>
+
+<div id="Layer3" style="position:absolute; 
+left:600px; top:3200px; width:364px; height:223px; z-index:3">
+
+![Persepolis (Trono de Ĝamŝedo), 2011](irano/Firdaus_en_Persepolis.jpg)
+
+</div>
+
+<div id="Layer3" style="position:absolute; 
+left:600px; top:3500px; width:364px; height:223px; z-index:3">
+
+![Monumento Ozodi (Libereco), 2011](irano/ozodi.jpg)
+
+</div>
+
+<div id="Layer3" style="position:absolute; 
+left:600px; top:3800px; width:364px; height:223px; z-index:3">
+
+![Monta vilaĝo Masuleh, 2011](irano/Masuleh.jpg)
+
+</div>
+
+<div id="Layer4" style="position:absolute; left:12px; top:30px; width:530px; 
+height:1409px; z-index:4">
+
+# Rondvojaĝo en Irano  
+
+### *Ruŝno Rajhoni, Firdaŭs Ŝukurov*
+
+En la fino de la 2010-a jaro aperis informo pri okazigo en marto 2011-a
+la 4-an Mezorientan kunvenon en Karaĝo (apud Tehrano, Irano). Jam
+delonge ni revis pri vizito al tiu ĉi bela kaj interesa lando kun riĉega
+historio, arto kaj kulturo. Ni ekĝojis - jen venis la tempo realigi nian
+revon: konatiĝi kun esperantistoj kaj pere de ili pli bone koni la
+historiajn, artajn kaj kulturajn tradiciojn de la popolo. Des pli, ke la
+Kunveno devis okazi en la tagoj de la granda orienta festo Noŭruzo (Nova
+tago (jaro)) = dusemajna festo, kiu estas agnoskita kiel internacia.  
+  
+Post kiam ni jam ricevis vizojn, aperis malĝojiga informo pri la
+neokazigo de la Kunveno. Pro la politikaj eventoj en la arabaj landoj,
+la estraro de IREA, timante, ke tio povos esti danĝere al la
+partoprenontoj, decidis ne okazigi la Kunvenon. Tamen, okazis tiel, ke
+kelkaj eksternandanoj (s-ino Ildiko el Hungario, familio Sans el
+Svislando kaj ni el Taĝikio) venis al Irano.  
+  
+La 14-an de aprilo ni surteriĝis en la internacia flughaveno de Imamo
+Homejni (50 km for de Tehrano). Ĉar la aviadilo malfruis, ni venis
+nokte. Unue ni ŝanĝis iom da mono kaj poste serĉis buson al la urbo.
+Fin-fine ni trovis buson kaj venis al la flughaveno por enlandaj flugoj.
+De tie ni per taksio atingis loĝejon de s-ro Hamzeh Shafiee, kiu invitis
+nin por tranokti. Ges-roj Shafiee regalis nin per bongustaj manĝaĵoj. Ni
+parolis pri diversaj temoj kaj bone ripozis. La sekvan tagon s-ro Hamzeh
+venigis nin al oficejo de IREA. Tie nin salutis s-ro Reza Torabi kaj
+kelkaj aliaj esperantistoj. S-ro Reza kaj s-ino Fariba Maĝd invitis nin
+al sia hejmo. Ili informis nin pri la nuna stato de la e-movado,
+sukcesoj kaj problemoj. S-ro Reza provizis nin per biletoj por metroo
+kaj simkarto por poŝtelefono. Li helpis al ni organizi rondvojaĝon tra
+kelkaj famaj urboj de Irano kaj renkonti kiel eblas pli multe da
+esperantistoj. Dum la vojaĝo li ĉiutage telefonis al ni por ekscii pri
+nia stato.  
+  
+Ni startis meznokte per interurba komforta buso kaj direktis nin al
+Tabrizo (norda Irano). Post agrabla dormado en la buso, ni frumatene
+venis al Tabriza busterminalo, kie nin renkontis s-ro Askar Maromi. Post
+kiam ni lasis niajn pakaĵojn en hotelo "Maŝhad", s-ro Askar gvidis nin
+al vidindaĵoj de la malnova urbo. Ni vizitis muzeon, moskeojn, bazaron.
+S-ro Askar estas kredanto. Dum nia promenado li multe rakontis al ni pri
+islama religio. Por pli bone konatigi nin pri la islamaj tradicioj en
+familio, li invitis nin al la hejmo de sia frato, kie ni vespermanĝis
+kaj bone konversaciis kun la parencoj de s-ro Askar. Verŝajne ne
+ekzistas alia esperantisto en Tabrizo, ĉar la sekvan tagon ni promenis
+sole. Ni vizitis tombejon-muzeon kaj apudstarantan Bluan moskeon.
+Vespere s-ro Askar gvidis nin al la busterminalo, de kie ni direktis nin
+al la urbo Kermanŝaho.  
+  
+Al Kermanŝaho ni venis frumatene. La terminalo ankoraŭ ne funkciis. Ĉar
+estis tre malvarme, ni decidis preni taksion kaj veturi al iu
+malmultekosta hotelo. Iu policisto helpis al ni trovi hotelon kaj petis
+iom da mono por tio. Post konatiĝo kun la centra parto de la urbo, ni
+direktis nin al urbeto Kangevaro, apud kiu troviĝas restaĵoj de la
+antikva palaco de diino Anahita.  
+  
+En Kangevaro ni sukcesis renkonti lokan esperantiston, s-ron Ali
+Koŭsari, kun kiu ni konversaciis dum duonhoro. Bedaŭrinde pro la manko
+de tempo ni ne povis akcepti lian afablan inviton gasti ĉe lia familio.
+Sur rea vojo ni vizitis urbeton Behistun. Tie kun multe da aliaj
+turistoj ni grimpis sur monteto, kie antaŭ jarmiloj estis ĉizita bildo
+pri akcepto de reĝo Dario donacojn de la reĝoj de konkeritaj landoj.
+Vespere ni revenis al Kermanŝaha busterminalo kaj nokte veturis al
+Isfahano.  
+  
+Al Isfahano ni venis frumatene. Post matenmanĝo en terminala kafejo ni
+direktis nin al urbeto ŝahinŝahr. Kvankam taksio estas tre populara en
+Irano, ni, uzante itinerbuson, baldaŭ atingis nian celon. En ŝahinŝahr
+nin gastigis familio de s-ino Farŝideh kaj s-ro Parviz. Ankaŭ la frato
+de Farŝideh iam lernis Esperanton. S-ino Farŝideh rakontis al ni pri
+Isfahano kaj konsilis viziti kelkajn lokojn, nome: Imamplaco (Majdoni
+ĝahon), ĉilsutun (Kvardek kolonoj), Haŝt behiŝt (Ok paradizoj), 33 pul
+(33 pontoj), ŝohadoplaco, Medreseo ĉorbog. Dum tri tagoj ni sukcesis
+viziti ĉiujn ĉi lokojn kaj eĉ pli. La kvaran tagon ni promenis tra
+grandega bazaro kun miliardoj da aĵoj kaj suveniroj\! Ĝustas onidiro
+"Isfahan - nisfi ĝahan" (Isfahan estas duono de la mondo). Meznokte ni
+venis al la busterminalo kaj veturis al ŝirazo - naskiĝloko de la
+mondfamaj poetoj Saadi kaj Hafizo.  
+  
+Veninte frumatene al ŝirazo, unue ni klopodis trovi buson al Marvdaŝt
+kaj Persepolis (Tahti ĝamŝed (trono de ĝamŝedo)). Post 50 kilometra
+veturado, tagmeze, ni atingis Persepolison. ĝi estis konstruita de reĝoj
+Dario kaj Kserkso en la 6-5 jarcentoj a.K. Tiam ĝi estis ĉefurbo de la
+dinastio de Aĥemenidoj. Inter la grandiozaj kolonoj svarmis turistoj el
+diversaj lokoj de Irano. Ni estis, verŝajne, solaj eksterlandanoj.  
+  
+Vespere ni revenis al ŝirazo, trovis malmultekostan hotelon kaj restis
+tie dum du noktoj. Ni vizitis kelkajn moskeojn, citadelon, armenan
+katolikan preĝejon, maŭzoleojn de Saadi kaj Hafizo. La tomboj de grandaj
+poetoj troviĝas en belegaj ĝardenoj, kiuj similas al paradizo\!  
+  
+Nokte en la busterminalo, antaŭ nia vorveturo al Jazdo, nin kaptis loka
+esperantisto s-ro Farhod Vesal. ĉirkaŭ unu horo ni agrable kaj interese
+babilis. S-ro Farhod parolas kelkajn lingvojn kaj li interesiĝas pri
+etimologio de vortoj en diversaj lingvoj.  
+  
+Frumatene bela buso venigis nin al la nova terminalo en Jazd. ĉar estis
+tro frue, oficejoj ankoraŭ ne funkciis. Ni konatiĝis kun turisto el
+Singapuro kaj, trinkante aroman nigran teon, interŝanĝis en la angla la
+impresojn pri Irano. Ni rakontis al li multon pri nia lingvo,
+eksplikante, ke sen helpo de esperantistoj ni ne povus vojaĝi. Ĉar ni
+planis daŭrigi nian vojaĝon al Maŝhado per trajno tra dezerto, ni
+startis per urba buso al la stacidomo. Aĉetinte biletojn por vespera
+trajno, ni iris al la urbo. Unue ni vizitis unusolan preĝejon de
+fajradorantoj. Ĝis nun en Irano, precipe en Jazdo, ekzistas kredantoj al
+Zoroastrismo. Poste ni vizitis katolikan preĝejon. Konatiĝis kun judoj,
+kies vendejoj okupis la tutan straton. Vespere ni sidigis nin en la
+trajnon kaj startis al sankta urbo Maŝhado.  
+  
+Ni veturis tra senlimaj stepoj kaj dezertoj. Fojfoje aperadis apudvojaj
+dometoj. Dufoje (malfruvespere kaj frumatene) la trajno haltis ĉe
+moskeoj por permesi al kredantoj preĝi komforte. Niaj samkupeanoj estis
+studentoj. Ambaŭ estis kredantoj. Kun ili ni parolis perse, informante
+ilin pri Esperanto.  
+  
+Matene ni alvenis al la granda stacidomo de Maŝhado de kie per urba buso
+direktis nin al la loĝejo de s-ro Saeed Burhoni. Li veturigis nin al
+ripozejo apud artefarita montara lago. Ni restis tie ĝis venis aliaj
+esperantistoj - geedzoj Atena kaj Saeed Sardori, kiuj afable invitis nin
+gasti ĉe ili.  
+  
+Ges-oroj Sardori vizitigis nin al la tombo de Imamo Reza, ege fama en la
+islamaj landoj. Alian tagon ni veturis al urbeto Tus, kie naskiĝis,
+vivis kaj estis enterigita fama reprezentanto de la pers-taĝika
+literaturo, poeto Abulkasim Ferdousi, la aŭtoro de la mondfama "Ŝahname
+(La libro de reĝoj). Ni vizitis ankaŭ noktan parkon sur monteto,
+3-dimensian kinejon, muzeojn, ekspozicion de la naturaj kaj vegetaraj
+manĝaĵoj. Hejme ni praktikis Esperanton kaj iomete la rusan, ĉar s-ro
+Sardori emas lerni la rusan. En la lasta tago s-ino Atena invitis nin
+tagmanĝi ĉe siaj gepatroj. Post la tagmanĝo ni ĉiuj veturis al la
+proksima montfendejo, kie la urbanoj festis la lastajn tagojn de
+Noŭruzo. Post gaja tetrinkado kun dolĉaĵoj s-ro Saeed veturigis nin al
+la busterminalo. Vespere ni startis al Tehrano. En Niŝapuro (naskiĝloko
+de mondfama poeto, filozofo kaj matematikisto Omar Hajam) nia buso
+haltis por ke dezirantoj komforte preĝu kaj manĝu.  
+  
+Frumatene ni venis al unu el grandaj busterminaloj de Tehrano apud la
+monumento "Ozodi" (Libereco). Ĉi tie nin renkontis s-ro Jacques Sans kun
+sia familio, kiu faras mondvojaĝon per propra buso. Ni veturis al
+apudtehrana urbeto Karaĝo por festi tie kun amikoj de s-ro Reza Torabi
+kaj s-ino Fariba Maĝd la lastan tagon de Noŭruzo, nomata "13 Bedar". Ni
+bone pasigis la tempon: ĝuis la naturon, interparolis kaj interŝanĝis
+opiniojn en kelkaj lingvoj, manĝis bonguste kaj dancis. Vespere s-ro
+Reza Torabi veturigis nin al loĝejo de s-ino Giti Ferdosnia, kiu afable,
+bonkore kaj malavare gastigis nin. La sekvan tagon s-ino Giti gvidis nin
+kaj familion Sans al la muzeoj de la Reĝa Palaco. Mirigis nin tio, ke
+s-ino Giti estas persone konata kun la Reĝo Muhammad Reza Pehlevi, kiu
+iam enmanigis al ŝi medalon pro venko en rajdado.  
+  
+La sekvan tagon ni akceptis la inviton de s-ro Akbar Sadoqat viziti
+urbon Raŝt. Ni startis matene kaj jam posttagmeze nin renkontis s-ro
+Akbar. Post tagmanĝo ni promenis en la urbo. Malgraŭ multjaraj klopodoj
+de s-ro Akbar, esperantistoj ege malmultas en Raŝt. Same kiel en multaj
+urboj de Irano E-klubo tute ne ekzistas. S-ro Akbar invitis al
+vespermanĝo ankaŭ s-ron ŝahrom Hasanzade. La sekvan tagon s-ro Akbar
+veturigis nin al montara vilaĝo Masuleh, kie diverskoloraj dometoj estis
+konstruitaj sur la deklivo. Post la vizito al tiu ĉarma vilaĝo ni
+veturis al montara kastelo, konstruita en 14-a jarcento. Al la kastelo
+kondukas padeto kun pli ol 1000 ŝtupoj. Bedaŭrinde iomete pluvis kaj
+nebulo malhelpis ĝui belan pejzaĵon. Tamen ni atingis la kastelon kaj
+estis surprizita pri ĝia grandeco\! Miloj da homoj povis defendi sin en
+la kastelo. Malfruvespere, laciĝintaj, ni revenis hejmen, kie s-ino Jila
+jam preparis por ni bongustan vegetaran manĝaĵon. La sekvan tagon matene
+ni vizitis muzeon kaj posttagmeze veturis al urbeto Anzali ĉe Kaspia
+maro. Tie en ortodoksa preĝejo ni renkontis kelkajn homojn, parolantaj
+la rusan lingvon. Ili parolis perfekte ankaŭ la persan kaj rakontis al
+ni pri la tempo, kiam multe da rusoj loĝis en Anzali.  
+  
+En la sekva tago ni revenis al Tehrano. Denove nin gastigis s-ino Giti.
+ŝi estas arda esperantisto kaj ĉiam klopodis plibonigi sian konon de la
+lingvo. Bedaŭrinde mankas al ŝi praktiko. ŝi devas pli multe konversacii
+kaj korespondi. ŝi jam partoprenis kelkajn kongresojn. ĉijare ŝi planas
+partopreni IJKon en Kievo. Ni deziras al ŝi sukcesan vojaĝon.  
+  
+En Tehrano loĝas artista familio de s-ro Habibpoor. Unu vesperon ni
+estis invitita de li vespermanĝi kune ĉe lia ĉarma familio. S-ro Parviz
+kaj s-ino Munir montris al ni siajn pentraĵojn kaj skulptaĵojn. Ni multe
+parolis ankaŭ pri movadaj problemoj kaj politikaj sistemoj en niaj
+landoj.  
+  
+La lastan tagon ni promenis en la urbo, vizitante bazaron kaj parkon
+apud la monumento "Ozodi. Vespere s-ino Giti invitis al si ges-rojn
+Saeedpoor por kune vespermanĝi kaj priparoli estontajn kunlaboron en la
+movada kampo. Keyhan Saeedpoor estas prezidanto de IREA. S-ro Keyhan
+diris, ke iranaj esperantistoj ege scivolas pri Taĝikio. Estus bone, se
+ni povus venontjare en la tagoj de Noŭruza feriado organizi Orientan
+kunvenon. La partoprenontoj emas viziti ankaŭ mondfamajn urbojn Buharao
+kaj Samarkando. Ni pristudos la aferon kaj estos feliĉaj, se niaj karaj
+amikoj el Irano povos viziti nian landon kaj najbaran Uzbekion.  
+  
+Ankoraŭfoje ni kore dankas al ĉiuj esperantistoj kaj neesperantistoj,
+kiuj gastigis nin kaj helpis al ni dum nia vojaĝo. **
+
+### [al la ĉefa paĝo](../espermov.htm)
+
+**
+
+<div data-align="center">
+
+[![Hosted by uCoz](https://s210.ucoz.net/img/cp/5.gif
+"Hosted by uCoz")](https://www.ucoz.ru/ "Создать сайт бесплатно")  
+
+</div>
+
+</div>
