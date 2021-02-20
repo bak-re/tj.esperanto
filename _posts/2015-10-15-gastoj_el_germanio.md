@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Gastoj el Germanio  
+title: Gastoj el Germanio
 overlay: orange
 hero: /assets/img/gastoj/tagxikio/gxamsxed_nadejxda_ferdous.jpg
 ---
@@ -90,5 +90,5 @@ mi lasis niajn gastojn je la dispono de aliaj klubanoj. Krome Nadeĵda
 planis viziti kelkajn parencojn, kun kiuj ŝi dum multe da jaroj havis
 neniun kontaktojn. **
 
-### [al la ĉefa paĝo](/espermov.htm)
+### [al la ĉefa paĝo](espermov.htm)
 

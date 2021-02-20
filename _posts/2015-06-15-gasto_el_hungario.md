@@ -1,69 +1,41 @@
 ---
 layout: post
-title: Gasto el Hungario  
+title: Gasto el Hungario
 overlay: green
-hero: 'https://source.unsplash.com/collection/261936/'
+hero: /assets/img/gastoj/
 ---
 
-<div id="Layer3" style="position:absolute; 
-left:600px; top:100px; width:364px; height:223px; z-index:3">
+![Esperanto-domo, 2015](/assets/img/gastoj/tagxikio/esperanto_domo.jpg)
 
-![Esperanto-domo, 2015](tagxikio/esperanto_domo.jpg)
+Esperanto-domo, 2015
 
-</div>
+![bonvenon, 2015](/assets/img/gastoj/tagxikio/bonvenon.jpg)
 
-<div id="Layer3" style="position:absolute; 
-left:600px; top:400px; width:364px; height:223px; z-index:3">
+bonvenon, 2015
 
-![bonvenon, 2015](tagxikio/bonvenon.jpg)
+![montoj el la ĝardeno, 2015](/assets/img/gastoj/tagxikio/montoj_el_la_gxardeno.jpg)
 
-</div>
+montoj el la ĝardeno, 2015
 
-<div id="Layer3" style="position:absolute; 
-left:600px; top:800px; width:364px; height:223px; z-index:3">
+![Tomas faras fajron, 2015](/assets/img/gastoj/tagxikio/Tomas_faras_fajron.jpg)
 
-![montoj el la ĝardeno, 2015](tagxikio/montoj_el_la_gxardeno.jpg)
+Tomas faras fajron, 2015
 
-</div>
+![Rushno tagmanĝas, 2015](/assets/img/gastoj/tagxikio/rushno_tagmangxas.jpg)
 
-<div id="Layer3" style="position:absolute; 
-left:600px; top:1100px; width:364px; height:223px; z-index:3">
+Rushno tagmanĝas, 2015
 
-![Tomas faras fajron, 2015](tagxikio/Tomas_faras_fajron.jpg)
+![Tomas kaj Hurshed en la ĝardeno, 2015](/assets/img/gastoj/tagxikio/Tomas_kaj_Hurshed_en_la_gxardeno.jpg)
 
-</div>
+Tomas kaj Hurshed en la ĝardeno, 2015
 
-<div id="Layer3" style="position:absolute; 
-left:150px; top:1500px; width:364px; height:223px; z-index:3">
+![Rushno kaj montaro, 2015](/assets/img/gastoj/tagxikio/rushno_kaj_montaro.jpg)
 
-![Rushno tagmanĝas, 2015](tagxikio/rushno_tagmangxas.jpg)
+Rushno kaj montaro, 2015
 
-</div>
+![papavoj en la ĝardeno, 2015](/assets/img/gastoj/tagxikio/papavoj_en_la_gxardeno.jpg)
 
-<div id="Layer3" style="position:absolute; 
-left:150px; top:1800px; width:364px; height:223px; z-index:3">
-
-![Tomas kaj Hurshed en la ĝardeno,
-2015](tagxikio/Tomas_kaj_Hurshed_en_la_gxardeno.jpg)
-
-</div>
-
-<div id="Layer3" style="position:absolute; 
-left:600px; top:1400px; width:364px; height:223px; z-index:3">
-
-![Rushno kaj montaro, 2015](tagxikio/rushno_kaj_montaro.jpg)
-
-</div>
-
-<div id="Layer3" style="position:absolute; 
-left:600px; top:1800px; width:364px; height:223px; z-index:3">
-
-![papavoj en la ĝardeno, 2015](tagxikio/papavoj_en_la_gxardeno.jpg)
-
-</div>
-
-<div id="Layer4" style="position:absolute; left:12px; top:30px; width:530px; 
-height:1409px; z-index:4">
+papavoj en la ĝardeno, 2015
 
 ### *Firdaŭs Ŝukurov*
 
@@ -130,8 +102,6 @@ mem ne estas tiel entuziasma, kiel Vi, ĝin (la aprezon) Vi meritas.
 Por mi nun la plej valora estas Via amikeco. Dankegon por ĉio
 ankoraŭfoje.  
   
-Thomas* **
+Thomas*
 
-### [al la ĉefa paĝo](../espermov.htm)
-
-</div>
+### [al la ĉefa paĝo](espermov.htm)
