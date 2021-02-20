@@ -311,14 +311,14 @@ Povas ĝi bruligi nin.
   
 Hej, amo - nia bel',  
 L' animoj - en ĉiel',  
-Kun ni ĝojas varma sun', | 2f  
-Steloj nin salutas nun. |  
+Kun ni ĝojas varma sun', \| 2f  
+Steloj nin salutas nun. \|  
   
-Ni ĝuas amon nun, |  
-Favoras nin fortun' | 2f  
-Kaj helpas nin la Di'. |  
-Vento blovas en la val'- | 2f  
-Floro svingas per petal'. |  
+Ni ĝuas amon nun, \|  
+Favoras nin fortun' \| 2f  
+Kaj helpas nin la Di'. \|  
+Vento blovas en la val'- \| 2f  
+Floro svingas per petal'. \|  
   
 Hej, amo - nia bel',  
 Ni iras al la kel'.  
@@ -327,14 +327,14 @@ Kune ni gustumu ĝin.
   
 Hej, amo - nia bel',  
 Forgesis ni pri gel',  
-Ĉar la am' varmigas nin, | 2f  
-Kore ni salutas ĝin. |  
+Ĉar la am' varmigas nin, \| 2f  
+Kore ni salutas ĝin. \|  
   
-Varmigas amo nin, |  
-Adoras mi, ja, vin, | 2f  
-Nin kisas amradi'. |  
-Pri la amo en tonal' | 2f  
-Birdoj ĉirpas en ĝangal. |  
+Varmigas amo nin, \|  
+Adoras mi, ja, vin, \| 2f  
+Nin kisas amradi'. \|  
+Pri la amo en tonal' \| 2f  
+Birdoj ĉirpas en ĝangal. \|  
   
 Hej, amo - nia bel',  
 Ni vivas nur tiel -  
@@ -343,8 +343,8 @@ Dancas brile en ĝarden.
   
 Hej, amo - nia bel',  
 Ni sidas sur la sel'  
-Kaj kamelo rajdas nun | 2f  
-Al oazo de l' fortun. |  
+Kaj kamelo rajdas nun \| 2f  
+Al oazo de l' fortun. \|  
   
 
 <span id="viajlipoj"></span>
@@ -773,23 +773,23 @@ traduko de F.Ŝukurov*
 
 ### Ĉu mi kulpas, ke mi, ĉu mi kulpas, ke mi,  
 Ĉu mi kulpas, ke amas mi lin?  
-Ĉu mi kulpas, ke voĉo, ja, vibris ĉe mi, | 2f  
-Kiam kantis mi kanton al li? |  
+Ĉu mi kulpas, ke voĉo, ja, vibris ĉe mi, \| 2f  
+Kiam kantis mi kanton al li? \|  
   
 Oj, patrin'-karulin', oj, patrin'-karulin',  
 Promenadi permesu al mi.  
-Steloj brilas en nokt', viroj kisas dum nokt', | 2f  
-Nokte venas la amharmoni'. |  
+Steloj brilas en nokt', viroj kisas dum nokt', \| 2f  
+Nokte venas la amharmoni'. \|  
   
 Kisis milde li min, kisis milde li min,  
 Promesante edziĝi al mi.  
-Ĉion kredis, ja, mi, kaj disfloris l'anim', | 2f  
-Ĉar amegis, ja, arde mi lin. |  
+Ĉion kredis, ja, mi, kaj disfloris l'anim', \| 2f  
+Ĉar amegis, ja, arde mi lin. \|  
   
 Kulpas certe mi mem, kulpas certe mi mem,  
 Kulpas certe - doloras l'anim'...  
-Kial do, dum la nokt', kial do, dum la nokt' | 2f  
-Mi promesis al li kisi min? |  
+Kial do, dum la nokt', kial do, dum la nokt' \| 2f  
+Mi promesis al li kisi min? \|  
   
 
 # Виновата ли я?
@@ -798,23 +798,23 @@ Mi promesis al li kisi min? |
 
 ### Виновата ли я, виновата ли я,  
 Виновата, что люблю я его?  
-Виновата ли я, что мой голос дрожал, | 2р  
-Когда пела я песни ему? |  
+Виновата ли я, что мой голос дрожал, \| 2р  
+Когда пела я песни ему? \|  
   
 Ой, ты мама моя, ой ты мама моя,  
 Отпусти ты меня погулять.  
-Ночью звёзды горят, ночью ласки дарят, | 2р  
-Ночью все о любви говорят. |  
+Ночью звёзды горят, ночью ласки дарят, \| 2р  
+Ночью все о любви говорят. \|  
   
 Целовал-миловал, целовал-миловал,  
 Говорил, что я буду его.  
-А я верила всё и как роза цвела, | 2р  
-Потому что любила его. |  
+А я верила всё и как роза цвела, \| 2р  
+Потому что любила его. \|  
   
 Виновата сама, виновата сама,  
 Разрешила себя я обнять.  
-Ах, зачем же зачем в эту лунную ночь | 2р  
-Позволяла себя целовать? |  
+Ах, зачем же зачем в эту лунную ночь \| 2р  
+Позволяла себя целовать? \|  
   
 
 <span id="enboato"></span>
@@ -961,19 +961,19 @@ traduko de F.Ŝukurov*
 ### La majstro mia en memor’,  
 De l’vivo kaj kread’ – la font’.  
 Ĝis kiam vivas mi en l’mond’  
-Vi estas ĉiam en memor’,- |2 f  
+Vi estas ĉiam en memor’,- \|2 f  
 La majstro mia , mia majstr’.  
   
 De la podioj el marmor’  
 Ĝis steloj brilaj en ĉiel’  
 Vi levis arton voĉan tiel,  
-Ke venas ĝoj’ kaj la angor’,- |2f  
+Ke venas ĝoj’ kaj la angor’,- \|2f  
 La majstro mia , mia majstr’.  
   
 La birdoj ĉirpas en ĝangal’  
 Pri l’amo nur sen la sakri’.  
 Por ni la kanton, pri l’ Patri’  
-Matene kantas najtingal,- |2f  
+Matene kantas najtingal,- \|2f  
 La majstro mia , mia majstr’.  
   
 
@@ -984,19 +984,19 @@ La majstro mia , mia majstr’.
 ### Устоди ман дар ёди ман,  
 Сарчашмаи эҷоди ман.  
 То зинда бошам дар ҷаҳон  
-Доим туи дар ёди ман,- |2 б  
+Доим туи дар ёди ман,- \|2 б  
 Устоди ман, устоди ман.  
   
 Аз саҳнаҳои мармарин  
 То гумбази чархи барин  
 Бардошти қадри ҳунар  
-Бар қудрати ту офарин,- |2б.  
+Бар қудрати ту офарин,- \|2б.  
 Устоди ман, устоди ман.  
   
 Аз нағмаи аҳли хунар,  
 Дар чорчархи мурғи саҳар,  
 Аз санъати зебои ту  
-Эҳё шавад бори дигар,- |2б  
+Эҳё шавад бори дигар,- \|2б  
 Устоди ман, устоди ман.  
   
 
