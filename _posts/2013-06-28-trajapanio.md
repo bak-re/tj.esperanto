@@ -1,50 +1,30 @@
 ---
 layout: post
-title: Esperanto-movado en Taĝikio
-overlay: purple
-hero: /assets/img/e_agado/varzobdemo.jpg
+title: Vojaĝo al Japanio kaj partopreno en la 100-a Japana Esperanto-kongreso
+overlay: orange
+hero: /assets/img/vojagxoj/japanio/gastoj.jpg
 ---
 
-<div id="Layer3" style="position:absolute; 
-left:600px; top:100px; width:364px; height:223px; z-index:3">
+![2013](/assets/img/vojagxoj/japanio/gastoj.jpg)
 
-![2013](japanio/gastoj.jpg)
+Gastoj
 
-</div>
+![2013](/assets/img/vojagxoj/japanio/mehrangez_kaj_japanino.jpg)
 
-<div id="Layer3" style="position:absolute; 
-left:600px; top:400px; width:364px; height:223px; z-index:3">
+Mehrangez kaj japanino
 
-![2013](japanio/mehrangez_kaj_japanino.jpg)
+![2013](/assets/img/vojagxoj/japanio/grupo.jpg)
 
-</div>
+Grupo
 
-<div id="Layer2" style="position:absolute; 
-left:600px; top:700px; width:364px; height:254px; z-index:2">
+![2013](/assets/img/vojagxoj/japanio/Katmano.jpg)
 
-![2013](japanio/grupo.jpg)
+Katmano
 
-</div>
+![2013](/assets/img/vojagxoj/japanio/esperanto_instituto.jpg)
 
-<div id="Layer3" style="position:absolute; 
-left:600px; top:1000px; width:364px; height:223px; z-index:3">
+Esperanta instituto
 
-![2013](japanio/Katmano.jpg)
-
-</div>
-
-<div id="Layer3" style="position:absolute; 
-left:600px; top:1300px; width:364px; height:223px; z-index:3">
-
-![2013](japanio/esperanto_instituto.jpg)
-
-</div>
-
-<div id="Layer4" style="position:absolute; left:12px; top:30px; width:530px; 
-height:1409px; z-index:4">
-
-# Vojaĝo al Japanio  
-kaj partopreno en la 100-a Japana Esperanto-kongreso
 
 ### *Uzakova Mehrangez*
 
@@ -100,6 +80,4 @@ instruiston s-on Firdaŭs Ŝukurov, kiu vekis ĉe mi intereson al tia
 mirinda lingvo kaj helpis organizi la vojaĝon. Kiel oni diras en mia
 depatra lingvo: "Ba hamai shumojon rahmati kalon"\! **
 
-### [al la ĉefa paĝo](../espermov.htm)
-
-</div>
+### [al la ĉefa paĝo](espermov.htm)

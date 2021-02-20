@@ -1,205 +1,118 @@
 ---
 layout: post
-title: Esperanto-movado en Taĝikio
-overlay: purple
-hero: /assets/img/e_agado/varzobdemo.jpg
+title: Rondvojaĝo en Francio  
+overlay: green
+hero: /assets/img/vojagxoj/francio/surpintoapudbon.jpg
 ---
 
-<div id="Layer3" style="position:absolute; 
-left:600px; top:100px; width:364px; height:223px; z-index:3">
+![Sur la monto apud Bonn, 2014](/assets/img/vojagxoj/francio/surpintoapudbon.jpg)
 
-![Sur la monto apud Bonn, 2014](francio/surpintoapudbon.jpg)
+Sur la monto apud Bonn, 2014
 
-</div>
+![Marcel kaj Kristina, 2014](/assets/img/vojagxoj/francio/marcelkris.jpg)
 
-<div id="Layer3" style="position:absolute; 
-left:600px; top:400px; width:364px; height:223px; z-index:3">
+Marcel kaj Kristina, 2014
 
-![Marcel kaj Kristina, 2014](francio/marcelkris.jpg)
+![Kristina kaj Svetlana, 2014](/assets/img/vojagxoj/francio/kristsvet.jpg)
 
-</div>
+Kristina kaj Svetlana, 2014
 
-<div id="Layer3" style="position:absolute; 
-left:600px; top:700px; width:364px; height:223px; z-index:3">
+![Tombejo en Flevi, 2014](/assets/img/vojagxoj/francio/tombejoenflevi.jpg)
 
-![Kristina kaj Svetlana, 2014](francio/kristsvet.jpg)
+Tombejo en Flevi, 2014
 
-</div>
+![En Bourch an bresse, 2014](/assets/img/vojagxoj/francio/bourgenbresse1.jpg)
 
-<div id="Layer3" style="position:absolute; 
-left:600px; top:1000px; width:364px; height:223px; z-index:3">
+En Bourch an bresse, 2014
 
-![Tombejo en Flevi, 2014](francio/tombejoenflevi.jpg)
+![En Bourch an bresse, 2014](/assets/img/vojagxoj/francio/bourgenbresse2.jpg)
 
-</div>
+En Bourch an bresse, 2014
 
-<div id="Layer3" style="position:absolute; 
-left:600px; top:1300px; width:364px; height:223px; z-index:3">
+![En Bourch an bresse, 2014](/assets/img/vojagxoj/francio/lagetoenbourg.jpg)
 
-![En Bourch an bresse, 2014](francio/bourgenbresse1.jpg)
+En Bourch an bresse, 2014
 
-</div>
+![Sxildo Zamenhof en Bourch an bresse, 2014](/assets/img/vojagxoj/francio/sxildozamenhof.jpg)
 
-<div id="Layer3" style="position:absolute; 
-left:600px; top:1600px; width:364px; height:223px; z-index:3">
+Sxildo Zamenhof en Bourch an bresse, 2014
 
-![En Bourch an bresse, 2014](francio/bourgenbresse2.jpg)
+![Frederik, Vincent, Andrea, 2014](/assets/img/vojagxoj/francio/fredvinandrea.jpg)
 
-</div>
+Frederik, Vincent, Andrea, 2014
 
-<div id="Layer3" style="position:absolute; 
-left:600px; top:1900px; width:364px; height:223px; z-index:3">
+![Firdaus kaj Svetlana en Liono, 2014](/assets/img/vojagxoj/francio/firkajsvetenlion.jpg)
 
-![En Bourch an bresse, 2014](francio/lagetoenbourg.jpg)
+Firdaus kaj Svetlana en Liono, 2014
 
-</div>
+![Vincent kaj Firdaus apud pentrita domo, 2014](/assets/img/vojagxoj/francio/vincentfir.jpg)
 
-<div id="Layer3" style="position:absolute; 
-left:600px; top:2200px; width:364px; height:223px; z-index:3">
+Vincent kaj Firdaus apud pentrita domo, 2014
 
-![Sxildo Zamenhof en Bourch an bresse, 2014](francio/sxildozamenhof.jpg)
+![Ejfelturo, 2014](/assets/img/vojagxoj/francio/ejfelturo.jpg)
 
-</div>
+Ejfelturo, 2014
 
-<div id="Layer2" style="position:absolute; 
-left:600px; top:2500px; width:364px; height:254px; z-index:2">
+![Metrostacio Stalingrad en Parizo, 2014](/assets/img/vojagxoj/francio/stalingrad_en_parizo.jpg)
 
-![Frederik, Vincent, Andrea, 2014](francio/fredvinandrea.jpg)
+Metrostacio Stalingrad en Parizo, 2014
 
-</div>
+![Elpaŝo en Parizo, 2014](/assets/img/vojagxoj/francio/parizo.jpg)
 
-<div id="Layer2" style="position:absolute; 
-left:600px; top:2800px; width:364px; height:254px; z-index:2">
+Elpaŝo en Parizo, 2014
 
-![Firdaus kaj Svetlana en Liono, 2014](francio/firkajsvetenlion.jpg)
+![Afiŝo pri elpaŝ en Angers, 2014](/assets/img/vojagxoj/francio/tagxikistan_angers.jpg)
 
-</div>
+Afiŝo pri elpaŝ en Angers, 2014
 
-<div id="Layer2" style="position:absolute; 
-left:600px; top:3100px; width:364px; height:254px; z-index:2">
+![Vespermanĝo en Angers, 2014](/assets/img/vojagxoj/francio/vespermangxo_en_angers.jpg)
 
-![Vincent kaj Firdaus apud pentrita domo, 2014](francio/vincentfir.jpg)
+Vespermanĝo en Angers, 2014
 
-</div>
+![Citadelo en Angers, 2014](/assets/img/vojagxoj/francio/citadele_en_angers.jpg)
 
-<div id="Layer3" style="position:absolute; 
-left:600px; top:3400px; width:364px; height:223px; z-index:3">
+Citadelo en Angers, 2014
 
-![Ejfelturo, 2014](francio/ejfelturo.jpg)
+![Autoponto aera en Saint-Brieuc, 2014](/assets/img/vojagxoj/francio/autoponto_en_saint_brieuc.jpg)
 
-</div>
+Autoponto aera en Saint-Brieuc, 2014
 
-<div id="Layer3" style="position:absolute; 
-left:600px; top:3700px; width:364px; height:223px; z-index:3">
+![Laurent Peuch intervjuas Firdauson, 2014](/assets/img/vojagxoj/francio/pitchkajfir.jpg)
 
-![Metrostacio Stalingrad en Parizo,
-2014](francio/stalingrad_en_parizo.jpg)
+Laurent Peuch intervjuas Firdauson, 2014
 
-</div>
+![Laurent, Amapolo kaj Rusxno, 2014](/assets/img/vojagxoj/francio/laurent_amapolo_rusxno.jpg)
 
-<div id="Layer3" style="position:absolute; 
-left:600px; top:4000px; width:364px; height:223px; z-index:3">
+Laurent, Amapolo kaj Rusxno, 2014
 
-![Elpaŝo en Parizo, 2014](francio/parizo.jpg)
+![Fera vizagxo, 2014](/assets/img/vojagxoj/francio/feravizagxo.jpg)
 
-</div>
+Fera vizagxo, 2014
 
-<div id="Layer3" style="position:absolute; 
-left:600px; top:4300px; width:364px; height:223px; z-index:3">
+![Santmisxel, 2014](/assets/img/vojagxoj/francio/santmisxel.jpg)
 
-![Afiŝo pri elpaŝ en Angers, 2014](francio/tagxikistan_angers.jpg)
+Santmisxel, 2014
 
-</div>
+![Yves kaj Rusxno, 2014](/assets/img/vojagxoj/francio/yveskajrusxno.jpg)
 
-<div id="Layer3" style="position:absolute; 
-left:600px; top:4600px; width:364px; height:223px; z-index:3">
+Yves kaj Rusxno, 2014
 
-![Vespermanĝo en Angers, 2014](francio/vespermangxo_en_angers.jpg)
+![Elpasxo en la salono Pusxkin, 2014](/assets/img/vojagxoj/francio/salonopusxkin.jpg)
 
-</div>
+Elpasxo en la salono Pusxkin, 2014
 
-<div id="Layer3" style="position:absolute; 
-left:600px; top:4900px; width:364px; height:223px; z-index:3">
+![Jean, Yvetta kaj Rusxno, 2014](/assets/img/vojagxoj/francio/jean_yvetta_rusxno.jpg)
 
-![Citadelo en Angers, 2014](francio/citadele_en_angers.jpg)
+Jean, Yvetta kaj Rusxno, 2014
 
-</div>
+![Elpaŝo en Amien, 2014](/assets/img/vojagxoj/francio/amien1.jpg)
 
-<div id="Layer3" style="position:absolute; 
-left:600px; top:5200px; width:364px; height:223px; z-index:3">
+Elpaŝo en Amien, 2014
 
-![Autoponto aera en Saint-Brieuc,
-2014](francio/autoponto_en_saint_brieuc.jpg)
+![Eperanto-kastelo Greziljono, 2014](/assets/img/vojagxoj/francio/greziljono.jpg)
 
-</div>
+Eperanto-kastelo Greziljono, 2014
 
-<div id="Layer3" style="position:absolute; 
-left:600px; top:5500px; width:364px; height:223px; z-index:3">
-
-![Laurent Peuch intervjuas Firdauson, 2014](francio/pitchkajfir.jpg)
-
-</div>
-
-<div id="Layer3" style="position:absolute; 
-left:600px; top:5800px; width:364px; height:223px; z-index:3">
-
-![Laurent, Amapolo kaj Rusxno, 2014](francio/laurent_amapolo_rusxno.jpg)
-
-</div>
-
-<div id="Layer3" style="position:absolute; 
-left:600px; top:6100px; width:364px; height:223px; z-index:3">
-
-![Fera vizagxo, 2014](francio/feravizagxo.jpg)
-
-</div>
-
-<div id="Layer3" style="position:absolute; 
-left:600px; top:6400px; width:364px; height:223px; z-index:3">
-
-![Santmisxel, 2014](francio/santmisxel.jpg)
-
-</div>
-
-<div id="Layer3" style="position:absolute; 
-left:600px; top:6700px; width:364px; height:223px; z-index:3">
-
-![Yves kaj Rusxno, 2014](francio/yveskajrusxno.jpg)
-
-</div>
-
-<div id="Layer3" style="position:absolute; 
-left:100px; top:7000px; width:364px; height:223px; z-index:3">
-
-![Elpasxo en la salono Pusxkin, 2014](francio/salonopusxkin.jpg)
-
-</div>
-
-<div id="Layer3" style="position:absolute; 
-left:600px; top:7000px; width:364px; height:223px; z-index:3">
-
-![Jean, Yvetta kaj Rusxno, 2014](francio/jean_yvetta_rusxno.jpg)
-
-</div>
-
-<div id="Layer3" style="position:absolute; 
-left:100px; top:7300px; width:364px; height:223px; z-index:3">
-
-![Elpaŝo en Amien, 2014](francio/amien1.jpg)
-
-</div>
-
-<div id="Layer3" style="position:absolute; 
-left:600px; top:7300px; width:364px; height:223px; z-index:3">
-
-![Eperanto-kastelo Greziljono, 2014](francio/greziljono.jpg)
-
-</div>
-
-<div id="Layer4" style="position:absolute; left:12px; top:30px; width:530px; 
-height:1409px; z-index:4">
-
-# Rondvojaĝo en Francio  
 
 ### *Ruŝno Rajhoni, Firdaŭs Ŝukurov*
 
@@ -521,8 +434,7 @@ tio ĝojigis nin.
 nigrulon.  
 5\. Neniam ni aŭdis kantemulojn en la kluboj, kiuj kantus
 esperantigitajn francajn kantojn.  
-**
 
-### [al la ĉefa paĝo](../espermov.htm)
 
-</div>
+
+### [al la ĉefa paĝo](espermov.htm)
