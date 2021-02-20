@@ -89,9 +89,9 @@ Mia libera land’ Taĝiki’\!
 
 *muziko de Ŝ.Sajfitdinov  
 versoj de B.Rahimzoda kaj M.Farhod  
-traduko de F. Ŝukurov  
-  
-*
+traduko de F. Ŝukurov*
+
+
 
 ### Malfermita por vi ĉiam estas la kor'  
 Kaj tenera la am' ĉiam estas en kor',  
@@ -115,9 +115,9 @@ Refreno.
 # Республикаи ман
 
 *оҳанги Ш.Сайфитдинов  
-шеъри Б.Рахимзода ва М.Фарход  
-  
-*
+шеъри Б.Рахимзода ва М.Фарход*
+
+
 
 ### Дари дилро ба рӯят во намудам,  
 Туро дар дидаву дил ҷо намудам,  
@@ -140,9 +140,9 @@ Refreno.
 # Республика моя
 
 *музыка Ш.Сайфитдинова  
-стихи Б.Рахимзода и М.Фархада  
-  
-*
+стихи Б.Рахимзода и М.Фархада*
+
+
 
 ### Как люблю я твой простор, страна моя\!  
 Песнь о снежных высях гор слагаю я.  
@@ -203,8 +203,7 @@ Pro la am', sincera sent' feliĉe ĝojas tuta kor'. 2f
 
 *versoj de Saadi S^erozi  
 muziko de Zalond  
-traduko de F.Ŝukurov  
-*
+traduko de F.Ŝukurov*
 
 ### Hej, kamelist', pelu sen vip', ĉar l'amatin' ekrrajdos tuj,  
 Kaj mia kor' en la angor' kun karulin' forrajdos tuj.  
@@ -1199,8 +1198,4 @@ Vi rigardas nun al mi - helpis jam fortun'.
   
 Яли-яли-яла-ла, ялодемасман,  
 Ялинганинг билан ёнинга бормасман.  
-  
-
-**
-
 
