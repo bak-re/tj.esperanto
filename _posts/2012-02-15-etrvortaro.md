@@ -2,7 +2,7 @@
 layout: post
 title: Esperanta-Taĝika-Rusa vortaro
 overlay: purple
-hero: /assets/img/
+hero: 'https://source.unsplash.com/collection/261936/'
 ---
 
 

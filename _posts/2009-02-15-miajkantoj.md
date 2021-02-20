@@ -2,7 +2,7 @@
 layout: post
 title: Miaj Kantoj
 overlay: purple
-hero: /assets/img/
+hero: 'https://source.unsplash.com/collection/261936/'
 ---
 
 <span id="naciahimno"></span>

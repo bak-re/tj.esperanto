@@ -2,7 +2,7 @@
 layout: post
 title: La taĝika  lingvo
 overlay: orange
-hero: /assets/img/
+hero: 'https://source.unsplash.com/collection/261936/'
 ---
 *kompilis F. Ŝukurov*
 
