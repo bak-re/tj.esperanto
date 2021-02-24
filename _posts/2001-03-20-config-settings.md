@@ -52,7 +52,7 @@ author:
   photo2x                   : "uploads/me.png"
 
 baseurl                      : "/dactl/" # the subpath of your site, e.g. /blog/, set to '' in case of hosting on GitHub pages
-                                  # i.e. `http://<username>.github.io`
+                                  # i.e. `https://<username>.github.io`
 url                          : "" # the base hostname & protocol for your site
 ~~~
 

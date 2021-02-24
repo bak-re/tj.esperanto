@@ -90,10 +90,10 @@ Integer posuere erat a ante venenatis dapibus posuere velit aliquet. Morbi leo r
 
 Quisque consequat sapien eget quam rhoncus, sit amet laoreet diam tempus. Aliquam aliquam metus erat, a pulvinar turpis suscipit at.
 
-![1200x700](http://placehold.it/1200x700 "Large example image"){:.oversize}
-![800x400](http://placehold.it/800x400 "Large example image"){:.lead}
-![400x200](http://placehold.it/400x200 "Medium example image")
-![200x200](http://placehold.it/200x200 "Small example image")
+![1200x700](https://placehold.it/1200x700 "Large example image"){:.oversize}
+![800x400](https://placehold.it/800x400 "Large example image"){:.lead}
+![400x200](https://placehold.it/400x200 "Medium example image")
+![200x200](https://placehold.it/200x200 "Small example image")
 
 ## Tables
 
