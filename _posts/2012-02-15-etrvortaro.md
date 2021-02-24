@@ -11,6 +11,7 @@ hero: 'https://source.unsplash.com/collection/261936/'
 > **Asocio de esperantistoj de Taĝikio  
 > invitas vin konatiĝi pri la lando, popolo, kulturo kaj
 > esperanto-movado**
+<!--break-->  
 
 | Eo | Tj | Ru | 
 |----|-------|-----| 

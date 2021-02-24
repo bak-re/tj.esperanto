@@ -12,6 +12,8 @@ gxamsxed, nadejxda, ferdous, 2014
 ![gxamsxed, nadejxda, saidmurod, 2014](/assets/img/gastoj/tagxikio/gxamsxed_nadejxda_saidmurod.jpg)
 
 gxamsxed, nadejxda, saidmurod, 2014
+<!--break-->
+
 
 ![nadejxda, ferdous, saidmurod, 2014](/assets/img/gastoj/tagxikio/nadejxda_ferdous_saidmurod.jpg)
 

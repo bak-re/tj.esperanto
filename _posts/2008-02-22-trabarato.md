@@ -12,7 +12,7 @@ Kongresanoj de la 5-a Azia kongreso, 2008
 ![Ruŝno kaj partoprenintoj de la 5-a Azia kongreso, 2008](/assets/img/vojagxoj/barato/rusxno_kaj_baratanoj.jpg)
 
 Ruŝno kaj partoprenintoj de la 5-a Azia kongreso, 2008
-
+<!--break-->  
 ![Prezidanto de UEA s-ro Dasgupta, 2008](/assets/img/vojagxoj/barato/dasgupta_kaj_firdaus.jpg)
 
 Prezidanto de UEA s-ro Dasgupta, 2008

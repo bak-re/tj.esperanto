@@ -8,6 +8,8 @@ hero: /assets/img/vojagxoj/sudfrancio/Seruroj_kaj_cxenoj_en_Frankfurto.jpg
 ![Seruroj kaj cxenoj sur la ponto en Frankfurto, 2015](/assets/img/vojagxoj/sudfrancio/Seruroj_kaj_cxenoj_en_Frankfurto.jpg)
 
 Seruroj kaj cxenoj sur la ponto en Frankfurto, 2015
+<!--break-->
+
 
 ![Firdaus kaj Silva apud la nacia E-muzeo, 2015](/assets/img/vojagxoj/sudfrancio/Firdaus_kaj_Silva.jpg)
 

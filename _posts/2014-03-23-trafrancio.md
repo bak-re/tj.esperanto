@@ -12,6 +12,8 @@ Sur la monto apud Bonn, 2014
 ![Marcel kaj Kristina, 2014](/assets/img/vojagxoj/francio/marcelkris.jpg)
 
 Marcel kaj Kristina, 2014
+<!--break-->
+
 
 ![Kristina kaj Svetlana, 2014](/assets/img/vojagxoj/francio/kristsvet.jpg)
 

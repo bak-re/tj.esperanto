@@ -11,7 +11,7 @@ hero: 'https://source.unsplash.com/collection/261936/'
 *Марҳамат ба забони  тоҷикӣ.* 
 
 La taĝika lingvo estas parolata  plejparte en Taĝikio  -  eta lando en   Meza Azio. Ĝi apartenas al la okcidentirana grupo de hind-eŭropaj   lingvoj. La taĝika similas al la persa kaj dariafgana. Proksimume  4 milionoj da homoj parolas la taĝikan en Taĝikio, ĉirkaŭ 2 milionoj   en najbaraj landoj - Uzbekio, Kirgizio, Ĉinio kaj ĉirkaŭ 6 milionoj   en Afganio. En 8-10 jarcentoj de nia erao la taĝikan lingvon multe   influis la araba. Dum la sovetia periodo la taĝikan lingvon eniris   multaj rusaj kaj uzbekaj vortoj.
-
+<!--break-->  
 Ĝis la jaro 1929 en Taĝikio oni uzis la araban alfabeton, de 1929   ĝis 1939 - la latinan, kaj de tiam ĝis hodiaŭ - la kirilan. 
 
 ## Alfabeto 

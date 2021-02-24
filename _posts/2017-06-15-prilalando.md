@@ -16,6 +16,8 @@ La nacia flago de Taĝikio
 ![La mapo de Taĝikio](/assets/img/pritagxikio/kartataj.jpg)
 
 La mapo de Taĝikio
+<!--break-->
+
 
 ![Marija-monto ĉe Kulikalon](/assets/img/pritagxikio/marija.jpg)
 

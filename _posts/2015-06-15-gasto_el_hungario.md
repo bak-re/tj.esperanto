@@ -12,6 +12,8 @@ Esperanto-domo, 2015
 ![bonvenon, 2015](/assets/img/gastoj/tagxikio/bonvenon.jpg)
 
 bonvenon, 2015
+<!--break-->
+
 
 ![montoj el la ĝardeno, 2015](/assets/img/gastoj/tagxikio/montoj_el_la_gxardeno.jpg)
 

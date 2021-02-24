@@ -20,7 +20,8 @@ Pro la beleco via kaj libero, kaj l' riĉiĝ’.
 Al la solena venis ni ceremoni’,  
 Ĉe la standardo via ĵuras ĉiam ni,  
 Ja, ĉiam ni.  
-  
+<!--break-->  
+
 Vivu ĉiam Patri’,  
 Mia libera land’ Taĝiki’\!  
   

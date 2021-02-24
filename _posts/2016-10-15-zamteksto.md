@@ -12,6 +12,8 @@ Esperanto-domo, 2014
 ![Davlat, Gxamsxid, 2014](/assets/img/fotajxoj/Davlat-Gxamsxid.jpg)
 
 Davlat, Gxamsxid, 2014
+<!--break-->
+
 
 ![Suhajli, Saidmurod, Gxamsxid, Firdaus, Davlat 2014](/assets/img/fotajxoj/Suhajli-Saidmurod-Gxamsxid-Firdaus-Davlat.jpg)
 

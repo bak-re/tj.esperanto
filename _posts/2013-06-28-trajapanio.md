@@ -12,6 +12,8 @@ Gastoj
 ![2013](/assets/img/vojagxoj/japanio/mehrangez_kaj_japanino.jpg)
 
 Mehrangez kaj japanino
+<!--break-->
+
 
 ![2013](/assets/img/vojagxoj/japanio/grupo.jpg)
 
