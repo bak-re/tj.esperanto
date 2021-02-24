@@ -5,6 +5,8 @@ overlay: blue
 hero: /assets/img/pritagxikio/tagxblazono.jpg
 ---
 
+{: .lead}
+
 ![La nacia blazono de Taĝikio](/assets/img/pritagxikio/tagxblazono.jpg)
 
 La nacia blazono de Taĝikio

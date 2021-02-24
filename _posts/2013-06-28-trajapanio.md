@@ -5,6 +5,8 @@ overlay: orange
 hero: /assets/img/vojagxoj/japanio/gastoj.jpg
 ---
 
+{: .lead}
+
 ![2013](/assets/img/vojagxoj/japanio/gastoj.jpg)
 
 Gastoj

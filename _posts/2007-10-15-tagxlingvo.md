@@ -4,6 +4,9 @@ title: La taĝika  lingvo
 overlay: orange
 hero: 'https://source.unsplash.com/collection/261936/'
 ---
+
+{: .lead}
+
 *kompilis F. Ŝukurov*
 
 *Bonvenon al la taĝika lingvo.*

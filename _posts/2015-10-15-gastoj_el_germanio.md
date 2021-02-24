@@ -5,6 +5,8 @@ overlay: orange
 hero: /assets/img/gastoj/tagxikio/gxamsxed_nadejxda_ferdous.jpg
 ---
 
+{: .lead}
+
 ![gxamsxed, nadejxda, ferdous, 2014](/assets/img/gastoj/tagxikio/gxamsxed_nadejxda_ferdous.jpg)
 
 gxamsxed, nadejxda, ferdous, 2014

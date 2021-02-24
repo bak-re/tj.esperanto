@@ -5,6 +5,8 @@ overlay: purple
 hero: /assets/img/vojagxoj/sudfrancio/Seruroj_kaj_cxenoj_en_Frankfurto.jpg
 ---
 
+{: .lead}
+
 ![Seruroj kaj cxenoj sur la ponto en Frankfurto, 2015](/assets/img/vojagxoj/sudfrancio/Seruroj_kaj_cxenoj_en_Frankfurto.jpg)
 
 Seruroj kaj cxenoj sur la ponto en Frankfurto, 2015

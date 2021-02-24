@@ -5,6 +5,8 @@ overlay: purple
 hero: /assets/img/vojagxoj/barato/kongresanoj.jpg
 ---
 
+{: .lead}
+
 ![Kongresanoj de la 5-a Azia kongreso, 2008](/assets/img/vojagxoj/barato/kongresanoj.jpg)
 
 Kongresanoj de la 5-a Azia kongreso, 2008

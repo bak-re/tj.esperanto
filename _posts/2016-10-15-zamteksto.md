@@ -5,6 +5,8 @@ overlay: red
 hero: /assets/img/fotajxoj/Esperanto-domo.jpg
 ---
 
+{: .lead}
+
 ![Esperanto-domo, 2014](/assets/img/fotajxoj/Esperanto-domo.jpg)
 
 Esperanto-domo, 2014

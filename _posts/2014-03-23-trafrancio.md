@@ -5,6 +5,8 @@ overlay: green
 hero: /assets/img/vojagxoj/francio/surpintoapudbon.jpg
 ---
 
+{: .lead}
+
 ![Sur la monto apud Bonn, 2014](/assets/img/vojagxoj/francio/surpintoapudbon.jpg)
 
 Sur la monto apud Bonn, 2014

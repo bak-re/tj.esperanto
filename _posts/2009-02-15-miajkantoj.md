@@ -5,6 +5,8 @@ overlay: purple
 hero: 'https://source.unsplash.com/collection/261936/'
 ---
 
+{: .lead}
+
 <span id="naciahimno"></span>
 
 # Nacia himno de Taĝikio

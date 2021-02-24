@@ -5,6 +5,8 @@ overlay: purple
 hero: 'https://source.unsplash.com/collection/261936/'
 ---
 
+{: .lead}
+
 
 ***kompilis F.Ŝukurov***
 
